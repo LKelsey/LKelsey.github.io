@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Kuropatkin | Lisa Kelsey</title>
-    <link>/author/n.-kuropatkin/</link>
-      <atom:link href="/author/n.-kuropatkin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lkelsey.github.io/author/n.-kuropatkin/</link>
+      <atom:link href="https://lkelsey.github.io/author/n.-kuropatkin/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Kuropatkin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lkelsey.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>N. Kuropatkin</title>
-      <link>/author/n.-kuropatkin/</link>
+      <link>https://lkelsey.github.io/author/n.-kuropatkin/</link>
     </image>
     
     <item>
       <title>The Effect of Environment on Type Ia Supernovae in the Dark Energy Survey Three-Year Cosmological Sample</title>
-      <link>/publication/2020-ar-xiv-200812101-k/</link>
+      <link>https://lkelsey.github.io/publication/2020-ar-xiv-200812101-k/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-ar-xiv-200812101-k/</guid>
+      <guid>https://lkelsey.github.io/publication/2020-ar-xiv-200812101-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The host galaxies of 106 rapidly evolving transients discovered by the Dark Energy Survey</title>
-      <link>/publication/2020-mnras-498-2575-w/</link>
+      <link>https://lkelsey.github.io/publication/2020-mnras-498-2575-w/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-mnras-498-2575-w/</guid>
+      <guid>https://lkelsey.github.io/publication/2020-mnras-498-2575-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supernova Siblings: Assessing the Consistency of Properties of Type Ia Supernovae that Share the Same Parent Galaxies</title>
-      <link>/publication/2020-ap-j-896-l-13-s/</link>
+      <link>https://lkelsey.github.io/publication/2020-ap-j-896-l-13-s/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-ap-j-896-l-13-s/</guid>
+      <guid>https://lkelsey.github.io/publication/2020-ap-j-896-l-13-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supernova host galaxies in the dark energy survey: I. Deep coadds, photometry, and stellar masses</title>
-      <link>/publication/2020-mnras-495-4040-w/</link>
+      <link>https://lkelsey.github.io/publication/2020-mnras-495-4040-w/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-mnras-495-4040-w/</guid>
+      <guid>https://lkelsey.github.io/publication/2020-mnras-495-4040-w/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity</title>
-      <link>/publication/2020-mnras-494-4426-s/</link>
+      <link>https://lkelsey.github.io/publication/2020-mnras-494-4426-s/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-mnras-494-4426-s/</guid>
+      <guid>https://lkelsey.github.io/publication/2020-mnras-494-4426-s/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>&#34;catalogues&#34; | Lisa Kelsey</title>
-    <link>/tag/catalogues/</link>
-      <atom:link href="/tag/catalogues/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lkelsey.github.io/tag/catalogues/</link>
+      <atom:link href="https://lkelsey.github.io/tag/catalogues/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;catalogues&#34;</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lkelsey.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;catalogues&#34;</title>
-      <link>/tag/catalogues/</link>
+      <link>https://lkelsey.github.io/tag/catalogues/</link>
     </image>
     
     <item>
       <title>Supernova host galaxies in the dark energy survey: I. Deep coadds, photometry, and stellar masses</title>
-      <link>/publication/2020-mnras-495-4040-w/</link>
+      <link>https://lkelsey.github.io/publication/2020-mnras-495-4040-w/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-mnras-495-4040-w/</guid>
+      <guid>https://lkelsey.github.io/publication/2020-mnras-495-4040-w/</guid>
       <description></description>
     </item>
     

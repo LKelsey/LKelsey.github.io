@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Hounsell | Lisa Kelsey</title>
-    <link>/author/r.-hounsell/</link>
-      <atom:link href="/author/r.-hounsell/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lkelsey.github.io/author/r.-hounsell/</link>
+      <atom:link href="https://lkelsey.github.io/author/r.-hounsell/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Hounsell</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lkelsey.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>R. Hounsell</title>
-      <link>/author/r.-hounsell/</link>
+      <link>https://lkelsey.github.io/author/r.-hounsell/</link>
     </image>
     
     <item>
       <title>Supernova Siblings: Assessing the Consistency of Properties of Type Ia Supernovae that Share the Same Parent Galaxies</title>
-      <link>/publication/2020-ap-j-896-l-13-s/</link>
+      <link>https://lkelsey.github.io/publication/2020-ap-j-896-l-13-s/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-ap-j-896-l-13-s/</guid>
+      <guid>https://lkelsey.github.io/publication/2020-ap-j-896-l-13-s/</guid>
       <description></description>
     </item>
     

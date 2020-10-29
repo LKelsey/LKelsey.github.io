@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. Müller | Lisa Kelsey</title>
-    <link>/author/t.-muller/</link>
-      <atom:link href="/author/t.-muller/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lkelsey.github.io/author/t.-muller/</link>
+      <atom:link href="https://lkelsey.github.io/author/t.-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>T. Müller</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lkelsey.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>T. Müller</title>
-      <link>/author/t.-muller/</link>
+      <link>https://lkelsey.github.io/author/t.-muller/</link>
     </image>
     
     <item>
       <title>The mystery of photometric twins DES17X1boj and DES16E2bjy</title>
-      <link>/publication/2020-mnras-494-5576-p/</link>
+      <link>https://lkelsey.github.io/publication/2020-mnras-494-5576-p/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-mnras-494-5576-p/</guid>
+      <guid>https://lkelsey.github.io/publication/2020-mnras-494-5576-p/</guid>
       <description></description>
     </item>
     
