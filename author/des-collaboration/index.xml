@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DES Collaboration | Lisa Kelsey</title>
+    <link>/author/des-collaboration/</link>
+      <atom:link href="/author/des-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>DES Collaboration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>DES Collaboration</title>
+      <link>/author/des-collaboration/</link>
+    </image>
+    
+    <item>
+      <title>The host galaxies of 106 rapidly evolving transients discovered by the Dark Energy Survey</title>
+      <link>/publication/2020-mnras-498-2575-w/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-mnras-498-2575-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernova Siblings: Assessing the Consistency of Properties of Type Ia Supernovae that Share the Same Parent Galaxies</title>
+      <link>/publication/2020-ap-j-896-l-13-s/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-ap-j-896-l-13-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernova host galaxies in the dark energy survey: I. Deep coadds, photometry, and stellar masses</title>
+      <link>/publication/2020-mnras-495-4040-w/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-mnras-495-4040-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity</title>
+      <link>/publication/2020-mnras-494-4426-s/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-mnras-494-4426-s/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

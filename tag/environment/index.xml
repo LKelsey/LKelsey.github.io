@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment | Lisa Kelsey</title>
+    <link>/tag/environment/</link>
+      <atom:link href="/tag/environment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Environment</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Environment</title>
+      <link>/tag/environment/</link>
+    </image>
+    
+    <item>
+      <title>Supernova Host Environments - European Astronomical Society Annual Meeting (EWASS)</title>
+      <link>/meeting/ewass_2020/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/meeting/ewass_2020/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://eas.unige.ch/EAS2020/session.jsp?id=SS20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EWASS Special Session SS20&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 July 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Leiden (Virtual)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This session brought together supernova and galaxy observers, and theoreticians from different backgrounds to discuss the physical properties of supernova host environments, the explosive events themselves, and the connections between them.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B.P. Thomas | Lisa Kelsey</title>
+    <link>/author/b.p.-thomas/</link>
+      <atom:link href="/author/b.p.-thomas/index.xml" rel="self" type="application/rss+xml" />
+    <description>B.P. Thomas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>B.P. Thomas</title>
+      <link>/author/b.p.-thomas/</link>
+    </image>
+    
+    <item>
+      <title>The host galaxies of 106 rapidly evolving transients discovered by the Dark Energy Survey</title>
+      <link>/publication/2020-mnras-498-2575-w/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-mnras-498-2575-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernova Siblings: Assessing the Consistency of Properties of Type Ia Supernovae that Share the Same Parent Galaxies</title>
+      <link>/publication/2020-ap-j-896-l-13-s/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-ap-j-896-l-13-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The mystery of photometric twins DES17X1boj and DES16E2bjy</title>
+      <link>/publication/2020-mnras-494-5576-p/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-mnras-494-5576-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

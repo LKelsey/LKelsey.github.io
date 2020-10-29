@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R.D. Wilkinson | Lisa Kelsey</title>
+    <link>/author/r.d.-wilkinson/</link>
+      <atom:link href="/author/r.d.-wilkinson/index.xml" rel="self" type="application/rss+xml" />
+    <description>R.D. Wilkinson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>R.D. Wilkinson</title>
+      <link>/author/r.d.-wilkinson/</link>
+    </image>
+    
+    <item>
+      <title>The Effect of Environment on Type Ia Supernovae in the Dark Energy Survey Three-Year Cosmological Sample</title>
+      <link>/publication/2020-ar-xiv-200812101-k/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-ar-xiv-200812101-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernova host galaxies in the dark energy survey: I. Deep coadds, photometry, and stellar masses</title>
+      <link>/publication/2020-mnras-495-4040-w/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-mnras-495-4040-w/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

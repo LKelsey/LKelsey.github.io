@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Melchior | Lisa Kelsey</title>
+    <link>/author/p.-melchior/</link>
+      <atom:link href="/author/p.-melchior/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Melchior</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Melchior</title>
+      <link>/author/p.-melchior/</link>
+    </image>
+    
+    <item>
+      <title>Supernova host galaxies in the dark energy survey: I. Deep coadds, photometry, and stellar masses</title>
+      <link>/publication/2020-mnras-495-4040-w/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-mnras-495-4040-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity</title>
+      <link>/publication/2020-mnras-494-4426-s/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-mnras-494-4426-s/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
