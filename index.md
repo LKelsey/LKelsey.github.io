@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="hero">
-  <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Dr Lisa Kelsey" class="hero-photo">
+  <img src="{{ '/images/LKelsey.jpg' | relative_url }}" alt="Dr Lisa Kelsey" class="hero-photo">
   <div class="hero-text">
     <h1>Dr Lisa Kelsey</h1>
     <p class="tagline">Astrophysicist researching the impact of galaxy environments on type Ia supernova cosmology. Co-creator of the Kilonova Seekers citizen science project, and co-lead of science communication for 4MOST.</p>
