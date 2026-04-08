@@ -35,9 +35,9 @@ layout: home
   </div>
 </div>
 
-I'm an astrophysicist at Cambridge working on type Ia supernovae and what their host galaxy environments can tell us about cosmological distance measurements. My current [Leverhulme fellowship]({{ '/research' | relative_url }}) uses Hubble Space Telescope data to study supernova siblings, pairs of supernovae in the same galaxy that let us separate local from global environmental effects.
+I am an astrophysicist at the University of Cambridge working on type Ia supernovae and their host galaxy environments. My current [Leverhulme Early Career Fellowship]({{ '/research' | relative_url }}) uses data from my Hubble Space Telescope program to study supernova siblings, pairs of supernovae in the same galaxy that let us disentangle local and global environmental effects.
 
-Outside of research, I co-created [Kilonova Seekers](https://kilonova-seekers.org), a citizen science project where volunteers help discover transient events in real time, and I co-lead science communication for the [4MOST](https://www.4most.eu/) spectroscopic survey. I'm a member of the Dark Energy Survey, GOTO, 4MOST, and Rubin LSST collaborations.
+Alongside my core research, I co-created [Kilonova Seekers](https://kilonova-seekers.org), a citizen science project where volunteers help discover transient events in real time, and I co-lead science communication for the [4MOST](https://www.4most.eu/) spectroscopic survey. I am a member of the Dark Energy Survey, GOTO, 4MOST, and Rubin LSST collaborations.
 
 ## Recent News
 
