@@ -22,7 +22,7 @@ SNe that share the same host galaxy ("siblings") share global environmental prop
 I've built the largest sample of SNe Ia siblings to date ([Kelsey 2024](https://ui.adsabs.harvard.edu/abs/2023arXiv230302020K/abstract)), and currently lead a [Hubble Space Telescope program (#17194)](https://ui.adsabs.harvard.edu/abs/2022hst..prop17194K/abstract) studying their local environments.
 
 <figure class="fig">
-  <img src="{{ '/images/ngc4753.jpg' | relative_url }}" alt="NGC 4753" style="max-width: 600px;">
+  <img src="{{ '/images/potw2024a.jpg' | relative_url }}" alt="NGC 4753" style="max-width: 600px;">
   <figcaption>Lenticular galaxy NGC 4753, one of the sibling host galaxies in my HST program, featured as the ESA/Hubble Picture of the Week. Credit: ESA/Hubble & NASA, L. Kelsey.</figcaption>
 </figure>
 
