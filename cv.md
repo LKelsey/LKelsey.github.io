@@ -164,7 +164,7 @@ Most recent invited seminar: *Candles in Context: How Galaxies Shape Supernova C
 
 ### Conference Organisation
 
-Scientific organiser and session chair for 10 international conferences, including Cosmic Lighthouses (Cambridge, 2025), EAS Annual Meeting sessions (2020, 2024), and NAM sessions (2022, 2023). Invited session chair for 3 further conferences.
+Scientific organiser and session chair for 10 international conferences, including Cosmic Lighthouses (Cambridge, 2025), EAS Annual Meeting sessions (2020, 2023), and NAM sessions (2022, 2023). Invited session chair for 3 further conferences.
 
 ### Departmental & Institutional Roles
 
