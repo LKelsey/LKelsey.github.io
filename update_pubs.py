@@ -99,8 +99,17 @@ def is_first_author(paper: dict) -> bool:
     return any(first.startswith(name.lower()) for name in AUTHOR_NAMES)
 
 
+def is_joint_first_author(paper: dict) -> bool:
+    """Check if the target author is a joint first author (second position)."""
+    authors = paper.get("author", [])
+    if len(authors) < 2:
+        return False
+    second = authors[1].lower()
+    return any(second.startswith(name.lower()) for name in AUTHOR_NAMES)
+
+
 def format_authors_short(paper: dict) -> str:
-    """Format a short author string, e.g. 'Kelsey, L. et al.' """
+    """Format a short author string, handling joint first authorship."""
     authors = paper.get("author", [])
     if not authors:
         return ""
@@ -108,6 +117,11 @@ def format_authors_short(paper: dict) -> str:
         return authors[0]
     if len(authors) == 2:
         return f"{authors[0]} & {authors[1]}"
+
+    # Joint first author: show both names
+    if is_joint_first_author(paper):
+        return f"{authors[0]} & {authors[1]} et al."
+
     return f"{authors[0]} et al."
 
 
@@ -175,30 +189,22 @@ def generate_yaml(papers: list[dict]) -> str:
     """Generate the full YAML content."""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    # Split into categories
-    first_refereed = [p for p in papers if is_refereed(p) and is_first_author(p)]
-    co_refereed = [p for p in papers if is_refereed(p) and not is_first_author(p)]
-    non_refereed = [p for p in papers if not is_refereed(p)]
+    # Split: first-author (including joint) vs co-author
+    first = [p for p in papers if is_first_author(p)]
+    coauthor = [p for p in papers if not is_first_author(p)]
 
     sections = [f"# Auto-generated from ADS library on {now}", f"# Do not edit manually\n"]
 
     sections.append("first_author:")
-    if first_refereed:
-        for p in first_refereed:
+    if first:
+        for p in first:
             sections.append(paper_to_yaml(p))
     else:
         sections.append("    []")
 
     sections.append("\ncoauthor:")
-    if co_refereed:
-        for p in co_refereed:
-            sections.append(paper_to_yaml(p))
-    else:
-        sections.append("    []")
-
-    sections.append("\nnon_refereed:")
-    if non_refereed:
-        for p in non_refereed:
+    if coauthor:
+        for p in coauthor:
             sections.append(paper_to_yaml(p))
     else:
         sections.append("    []")
@@ -231,10 +237,9 @@ def main():
     with open(OUTPUT_FILE, "w") as f:
         f.write(yaml_content)
 
-    refereed_first = sum(1 for p in papers if is_refereed(p) and is_first_author(p))
-    refereed_co = sum(1 for p in papers if is_refereed(p) and not is_first_author(p))
-    other = sum(1 for p in papers if not is_refereed(p))
-    print(f"Written to {OUTPUT_FILE}: {refereed_first} first-author, {refereed_co} co-author, {other} non-refereed")
+    first_count = sum(1 for p in papers if is_first_author(p))
+    co_count = len(papers) - first_count
+    print(f"Written to {OUTPUT_FILE}: {first_count} first-author, {co_count} co-author")
 
 
 if __name__ == "__main__":
