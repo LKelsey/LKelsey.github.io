@@ -15,9 +15,9 @@ I co-created and co-lead [Kilonova Seekers](https://www.zooniverse.org/projects/
 Kilonova Seekers was awarded the <strong>2025 UKRI Future Leaders Fellowship Public Engagement Award</strong> and has resulted in two publications, two Astronomer's Telegrams, and over 200 reports to the Transient Name Server. <a href="https://goto-obs.github.io/knseekers-results/">See our discoveries →</a>
 </div>
 
-The project has been used for workshops for primary and secondary school children, and forms the basis of the [IRIS pilot project Multi Messengers](https://researchportal.port.ac.uk/en/publications/multi-messengers/).
-
 [Get involved at kilonova-seekers.org →](https://kilonova-seekers.org)
+
+The project has been used for workshops for primary and secondary school children, and forms the basis of the [IRIS pilot project Multi Messengers](https://researchportal.port.ac.uk/en/publications/multi-messengers/).
 
 ## Kilonova Seekers – LCO: STAR
 
