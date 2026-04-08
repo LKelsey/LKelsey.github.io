@@ -65,9 +65,14 @@ def get_paper_metadata(bibcodes: list[str]) -> list[dict]:
         "doctype", "bibstem",
     ]
 
+    bigquery_headers = {
+        "Authorization": f"Bearer {ADS_TOKEN}",
+        "Content-Type": "big-query/csv",
+    }
+
     resp = requests.post(
         f"{ADS_API}/search/bigquery",
-        headers=HEADERS,
+        headers=bigquery_headers,
         data="bibcode\n" + "\n".join(bibcodes),
         params={
             "q": "*:*",
