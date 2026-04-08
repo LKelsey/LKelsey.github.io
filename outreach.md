@@ -9,7 +9,7 @@ permalink: /outreach/
 
 ## Kilonova Seekers
 
-I co-created and co-lead [Kilonova Seekers](https://www.zooniverse.org/projects/tkillestein/kilonova-seekers), a citizen science project on the Zooniverse where the public helps the [GOTO collaboration](https://goto-observatory.org/) discover transient events in real time.
+I co-created and co-lead [Kilonova Seekers](https://www.zooniverse.org/projects/tkillestein/kilonova-seekers), a citizen science project on the Zooniverse where the public helps the [GOTO collaboration](https://goto-observatory.org/) discover transients that may have been otherwise missed or overlooked, participating in cutting-edge science in real-time.
 
 <div class="highlight-box">
 Kilonova Seekers was awarded the <strong>2025 UKRI Future Leaders Fellowship Public Engagement Award</strong> and has resulted in two publications, two Astronomer's Telegrams, and over 200 reports to the Transient Name Server. <a href="https://goto-obs.github.io/knseekers-results/">See our discoveries →</a>
