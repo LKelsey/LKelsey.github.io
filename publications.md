@@ -28,14 +28,3 @@ Auto-generated from my [ADS library](https://ui.adsabs.harvard.edu/public-librar
 </div>
 {% endfor %}
 {% endif %}
-
-{% if site.data.publications.non_refereed.size > 0 %}
-## Non-Refereed
-
-{% for pub in site.data.publications.non_refereed %}
-<div class="pub-item">
-  <div class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a></div>
-  <div class="pub-authors">{{ pub.authors }} ({{ pub.year }}), {{ pub.journal }}{% if pub.doi %} · <a href="{{ pub.doi }}">DOI</a>{% endif %}</div>
-</div>
-{% endfor %}
-{% endif %}
