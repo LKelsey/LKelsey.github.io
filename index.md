@@ -35,25 +35,17 @@ layout: home
   </div>
 </div>
 
-<div class="section-cards">
-  <div class="section-card">
-    <h2>Research</h2>
-    <p>Type Ia supernova environments, host galaxy properties, supernova siblings, and their impact on cosmological distance measurements.</p>
-    <a href="{{ '/research' | relative_url }}" class="card-link">Read more →</a>
-  </div>
-  <div class="section-card">
-    <h2>Outreach & Public Engagement</h2>
-    <p>Co-creator of the Kilonova Seekers citizen science project. Co-lead of 4MOST science communication.</p>
-    <a href="{{ '/outreach' | relative_url }}" class="card-link">Read more →</a>
-  </div>
-  <div class="section-card">
-    <h2>CV</h2>
-    <p>Positions, education, grants, teaching, supervision, conference organisation, and service.</p>
-    <a href="{{ '/cv' | relative_url }}" class="card-link">View CV →</a>
-  </div>
-  <div class="section-card">
-    <h2>Publications</h2>
-    <p>First-author and co-authored publications, with links to ADS.</p>
-    <a href="{{ '/publications' | relative_url }}" class="card-link">View publications →</a>
+I'm an astrophysicist at Cambridge working on type Ia supernovae and what their host galaxy environments can tell us about cosmological distance measurements. My current [Leverhulme fellowship]({{ '/research' | relative_url }}) uses Hubble Space Telescope data to study supernova siblings, pairs of supernovae in the same galaxy that let us separate local from global environmental effects.
+
+Outside of research, I co-created [Kilonova Seekers](https://kilonova-seekers.org), a citizen science project where volunteers help discover transient events in real time, and I co-lead science communication for the [4MOST](https://www.4most.eu/) spectroscopic survey. I'm a member of the Dark Energy Survey, GOTO, 4MOST, and Rubin LSST collaborations.
+
+## Recent News
+
+{% for item in site.data.news limit:5 %}
+<div class="cv-entry" style="margin-bottom:0.8rem;padding-bottom:0.8rem;">
+  <div class="cv-entry-header">
+    <span class="cv-entry-title">{% if item.url %}<a href="{{ item.url }}">{{ item.text }}</a>{% else %}{{ item.text }}{% endif %}</span>
+    <span class="cv-entry-date">{{ item.date | date: "%b %Y" }}</span>
   </div>
 </div>
+{% endfor %}
