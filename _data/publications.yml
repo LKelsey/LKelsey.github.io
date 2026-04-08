@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-04-08 14:16 UTC
+# Auto-generated from ADS library on 2026-04-08 14:22 UTC
 # Do not edit manually
 
 first_author:
@@ -26,6 +26,16 @@ first_author:
       bibcode: "2021MNRAS.501.4861K"
       citations: 84
       doi: https://doi.org/10.1093/mnras/staa3924
+
+joint_first_author:
+    - title: "Kilonova Seekers: the GOTO project for real-time citizen science in time-domain astrophysics"
+      authors: "Killestein, T. L. & Kelsey, L. et al."
+      year: 2024
+      journal: "Monthly Notices of the Royal Astronomical Society, 533, 2113"
+      url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.2113K/abstract
+      bibcode: "2024MNRAS.533.2113K"
+      citations: 5
+      doi: https://doi.org/10.1093/mnras/stae1817
 
 coauthor:
     - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
@@ -172,14 +182,6 @@ coauthor:
       bibcode: "2024MNRAS.534.2263P"
       citations: 11
       doi: https://doi.org/10.1093/mnras/stae2164
-    - title: "Kilonova Seekers: the GOTO project for real-time citizen science in time-domain astrophysics"
-      authors: "Killestein, T. L. & Kelsey, L. et al."
-      year: 2024
-      journal: "Monthly Notices of the Royal Astronomical Society, 533, 2113"
-      url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.533.2113K/abstract
-      bibcode: "2024MNRAS.533.2113K"
-      citations: 5
-      doi: https://doi.org/10.1093/mnras/stae1817
     - title: "The Dark Energy Survey: Cosmology Results with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5 yr Data Set"
       authors: "DES Collaboration et al."
       year: 2024
