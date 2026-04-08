@@ -189,15 +189,23 @@ def generate_yaml(papers: list[dict]) -> str:
     """Generate the full YAML content."""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    # Split: first-author (including joint) vs co-author
+    # Three-way split: first-author, joint first-author (2nd position), co-author
     first = [p for p in papers if is_first_author(p)]
-    coauthor = [p for p in papers if not is_first_author(p)]
+    joint = [p for p in papers if not is_first_author(p) and is_joint_first_author(p)]
+    coauthor = [p for p in papers if not is_first_author(p) and not is_joint_first_author(p)]
 
     sections = [f"# Auto-generated from ADS library on {now}", f"# Do not edit manually\n"]
 
     sections.append("first_author:")
     if first:
         for p in first:
+            sections.append(paper_to_yaml(p))
+    else:
+        sections.append("    []")
+
+    sections.append("\njoint_first_author:")
+    if joint:
+        for p in joint:
             sections.append(paper_to_yaml(p))
     else:
         sections.append("    []")
@@ -238,8 +246,9 @@ def main():
         f.write(yaml_content)
 
     first_count = sum(1 for p in papers if is_first_author(p))
-    co_count = len(papers) - first_count
-    print(f"Written to {OUTPUT_FILE}: {first_count} first-author, {co_count} co-author")
+    joint_count = sum(1 for p in papers if not is_first_author(p) and is_joint_first_author(p))
+    co_count = len(papers) - first_count - joint_count
+    print(f"Written to {OUTPUT_FILE}: {first_count} first-author, {joint_count} joint first-author, {co_count} co-author")
 
 
 if __name__ == "__main__":
