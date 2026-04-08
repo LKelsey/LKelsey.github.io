@@ -26,21 +26,11 @@ I've built the largest sample of SNe Ia siblings to date ([Kelsey 2024](https://
   <figcaption>Lenticular galaxy NGC 4753, one of the sibling host galaxies in my HST program, featured as the ESA/Hubble Picture of the Week. Credit: ESA/Hubble & NASA, L. Kelsey.</figcaption>
 </figure>
 
-## Galaxy SED Fitting & Wavelength Coverage
-
-Many SN Ia host galaxies lack complete wavelength coverage: you can't get clean photometry of a host while a transient is still bright, so you either rely on archival imaging or wait for the transient to fade and apply for new telescope time. For large cosmological samples from surveys like DES, host photometry comes from stacking survey imaging, giving only optical bands.
-
-Recent work suggests dust content, star formation rate, and colour may be better tracers for correcting SN Ia brightnesses than stellar mass alone. But can we trust those SED-derived measurements from optical-only data? I'm supervising a project using the [DustPedia](https://www.aanda.org/articles/aa/full_html/2018/01/aa31419-17/aa31419-17.html) dataset (875 galaxies, 27-band UV-to-FIR photometry) to quantify this.
 
 ## Future Surveys
 
 Through [4MOST](https://www.4most.eu/), I'm involved in the Time-Domain Extragalactic Survey ([TiDES](https://www.4most.eu/cms/science/exgalconsurv/)) for spectroscopic follow-up of transients from [Rubin LSST](https://rubinobservatory.org/). I also co-lead the 4MOST Science Communication Working Group.
 
-## Presentations
-
-<div class="video-embed">
-  <iframe src="https://www.youtube.com/embed/2xz9-BPD6Rc" allowfullscreen loading="lazy"></iframe>
-</div>
 
 ## Publications
 
