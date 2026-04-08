@@ -1,0 +1,16 @@
+<nav>
+  <div class="nav-inner">
+    <a href="{{ '/' | relative_url }}" class="nav-name">Dr Lisa Kelsey</a>
+    <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="nav-links">
+      <a href="{{ '/about' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
+      <a href="{{ '/research' | relative_url }}" {% if page.url == '/research/' %}class="active"{% endif %}>Research</a>
+      <a href="{{ '/outreach' | relative_url }}" {% if page.url == '/outreach/' %}class="active"{% endif %}>Outreach</a>
+      <a href="{{ '/cv' | relative_url }}" {% if page.url == '/cv/' %}class="active"{% endif %}>CV</a>
+      <a href="{{ '/publications' | relative_url }}" {% if page.url == '/publications/' %}class="active"{% endif %}>Publications</a>
+      <button class="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+    </div>
+  </div>
+</nav>

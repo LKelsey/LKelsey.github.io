@@ -1,0 +1,31 @@
+first_author:
+  - title: "The effect of supernova siblings on cosmology from Type Ia Supernovae"
+    authors: "Kelsey, L. et al."
+    year: 2024
+    journal: MNRAS
+    url: https://ui.adsabs.harvard.edu/abs/2023arXiv230302020K/abstract
+
+  - title: "The effect of local environment on Type Ia Supernovae in the Dark Energy Survey 5-year sample"
+    authors: "Kelsey, L. et al."
+    year: 2023
+    journal: "MNRAS, 519, 3046"
+    url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3046K/abstract
+
+  - title: "The effect of environment on Type Ia supernovae in the Dark Energy Survey 3-year cosmological sample"
+    authors: "Kelsey, L. et al."
+    year: 2021
+    journal: "MNRAS, 501, 4861"
+    url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4861K/abstract
+
+selected_coauthor:
+  - title: "Kilonova Seekers: the GOTO project for real-time citizen science in time-domain astrophysics"
+    authors: "Killestein, T., Kelsey, L. et al."
+    year: 2024
+    journal: "MNRAS, 533, 2113"
+    url: https://academic.oup.com/mnras/article/533/2/2113/7735340
+
+  - title: "GOTO065054+593624: a peculiar dwarf nova identified in real time via Kilonova Seekers"
+    authors: "Ackley, K., ..., Kelsey, L. et al."
+    year: 2025
+    journal: ""
+    url: https://arxiv.org/abs/2501.11524

@@ -1,0 +1,9 @@
+title: Dr Lisa Kelsey
+description: >
+  Leverhulme & Isaac Newton Trust Early Career Fellow in Astrophysics
+url: "https://lkelsey.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+exclude: [README.md, Gemfile, Gemfile.lock]
