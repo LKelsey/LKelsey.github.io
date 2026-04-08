@@ -6,7 +6,7 @@ layout: home
   <img src="{{ '/images/profile.jpg' | relative_url }}" alt="Dr Lisa Kelsey" class="hero-photo">
   <div class="hero-text">
     <h1>Dr Lisa Kelsey</h1>
-    <p class="tagline">Astrophysicist researching the impact of galaxy environments on type Ia supernova cosmology. PI of a Hubble Space Telescope program, co-creator of the UKRI award-winning Kilonova Seekers citizen science project, and co-lead of science communication for 4MOST.</p>
+    <p class="tagline">Astrophysicist researching the impact of galaxy environments on type Ia supernova cosmology. Co-creator of the Kilonova Seekers citizen science project, and co-lead of science communication for 4MOST.</p>
     <p class="affiliation">Leverhulme &amp; Isaac Newton Trust Early Career Fellow<br>
     Institute of Astronomy &amp; Kavli Institute for Cosmology, University of Cambridge<br>
     Postdoctoral Affiliate, Newnham College</p>
@@ -43,7 +43,7 @@ layout: home
   </div>
   <div class="section-card">
     <h2>Outreach & Public Engagement</h2>
-    <p>Co-creator of the UKRI award-winning Kilonova Seekers citizen science project. Co-lead of 4MOST science communication.</p>
+    <p>Co-creator of the Kilonova Seekers citizen science project. Co-lead of 4MOST science communication.</p>
     <a href="{{ '/outreach' | relative_url }}" class="card-link">Read more →</a>
   </div>
   <div class="section-card">
