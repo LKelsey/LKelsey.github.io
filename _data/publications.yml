@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-04-10 07:18 UTC
+# Auto-generated from ADS library on 2026-04-11 06:54 UTC
 # Do not edit manually
 
 first_author:
@@ -38,22 +38,6 @@ joint_first_author:
       doi: https://doi.org/10.1093/mnras/stae1817
 
 coauthor:
-    - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
-      authors: "Boyd, Benjamin M. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.11165"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260311165B/abstract
-      bibcode: "2026arXiv260311165B"
-      citations: 0
-      doi: https://doi.org/10.48550/arXiv.2603.11165
-    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
-      authors: "Lyman, J. D. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.02330"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
-      bibcode: "2026arXiv260302330L"
-      citations: 1
-      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
@@ -62,14 +46,22 @@ coauthor:
       bibcode: "2026arXiv260306344R"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2603.06344
-    - title: "GOTO identification and broadband modelling of the counterpart to the SVOM GRB 250818B"
-      authors: "Belkin, S. et al."
+    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
+      authors: "Lyman, J. D. et al."
       year: 2026
-      journal: "arXiv e-prints, arXiv:2602.16559"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260216559B/abstract
-      bibcode: "2026arXiv260216559B"
+      journal: "arXiv e-prints, arXiv:2603.02330"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
+      bibcode: "2026arXiv260302330L"
+      citations: 1
+      doi: https://doi.org/10.48550/arXiv.2603.02330
+    - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
+      authors: "Boyd, Benjamin M. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2603.11165"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260311165B/abstract
+      bibcode: "2026arXiv260311165B"
       citations: 0
-      doi: https://doi.org/10.48550/arXiv.2602.16559
+      doi: https://doi.org/10.48550/arXiv.2603.11165
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
       year: 2026
@@ -86,6 +78,14 @@ coauthor:
       bibcode: "2026arXiv260202677S"
       citations: 1
       doi: https://doi.org/10.48550/arXiv.2602.02677
+    - title: "GOTO identification and broadband modelling of the counterpart to the SVOM GRB 250818B"
+      authors: "Belkin, S. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2602.16559"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260216559B/abstract
+      bibcode: "2026arXiv260216559B"
+      citations: 0
+      doi: https://doi.org/10.48550/arXiv.2602.16559
     - title: "Still Accelerating: Type Ia supernova cosmology is robust to host galaxy age evolution"
       authors: "Wiseman, Phil et al."
       year: 2026
@@ -102,14 +102,6 @@ coauthor:
       bibcode: "2025MNRAS.tmp.2134K"
       citations: 1
       doi: https://doi.org/10.1093/mnras/staf2261
-    - title: "The Dark Energy Survey Supernova Program: A Reanalysis Of Cosmology Results And Evidence For Evolving Dark Energy With An Updated Type Ia Supernova Calibration"
-      authors: "Popovic, B. et al."
-      year: 2025
-      journal: "arXiv e-prints, arXiv:2511.07517"
-      url: https://ui.adsabs.harvard.edu/abs/2025arXiv251107517P/abstract
-      bibcode: "2025arXiv251107517P"
-      citations: 62
-      doi: https://doi.org/10.48550/arXiv.2511.07517
     - title: "SN 2024bfu, SN 2025qe, and the early light curves of type Iax supernovae"
       authors: "Magee, M. R. et al."
       year: 2025
@@ -118,6 +110,14 @@ coauthor:
       bibcode: "2025MNRAS.543.3731M"
       citations: 10
       doi: https://doi.org/10.1093/mnras/staf1675
+    - title: "The Dark Energy Survey Supernova Program: A Reanalysis Of Cosmology Results And Evidence For Evolving Dark Energy With An Updated Type Ia Supernova Calibration"
+      authors: "Popovic, B. et al."
+      year: 2025
+      journal: "arXiv e-prints, arXiv:2511.07517"
+      url: https://ui.adsabs.harvard.edu/abs/2025arXiv251107517P/abstract
+      bibcode: "2025arXiv251107517P"
+      citations: 63
+      doi: https://doi.org/10.48550/arXiv.2511.07517
     - title: "TiDES: The 4MOST Time Domain Extragalactic Survey"
       authors: "Frohmaier, C. et al."
       year: 2025
@@ -188,7 +188,7 @@ coauthor:
       journal: "The Astrophysical Journal, 973, L14"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...973L..14D/abstract
       bibcode: "2024ApJ...973L..14D"
-      citations: 575
+      citations: 577
       doi: https://doi.org/10.3847/2041-8213/ad6f9f
     - title: "The Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Dyer, Martin J. et al."
@@ -206,14 +206,6 @@ coauthor:
       bibcode: "2024SPIE13098E..18O"
       citations: 0
       doi: https://doi.org/10.1117/12.3018319
-    - title: "Amalgame: cosmological constraints from the first combined photometric supernova sample"
-      authors: "Popovic, Brodie et al."
-      year: 2024
-      journal: "Monthly Notices of the Royal Astronomical Society, 529, 2100"
-      url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2100P/abstract
-      bibcode: "2024MNRAS.529.2100P"
-      citations: 15
-      doi: https://doi.org/10.1093/mnras/stae420
     - title: "The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae"
       authors: "Qu, H. et al."
       year: 2024
@@ -222,6 +214,14 @@ coauthor:
       bibcode: "2024ApJ...964..134Q"
       citations: 16
       doi: https://doi.org/10.3847/1538-4357/ad251d
+    - title: "Amalgame: cosmological constraints from the first combined photometric supernova sample"
+      authors: "Popovic, Brodie et al."
+      year: 2024
+      journal: "Monthly Notices of the Royal Astronomical Society, 529, 2100"
+      url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2100P/abstract
+      bibcode: "2024MNRAS.529.2100P"
+      citations: 15
+      doi: https://doi.org/10.1093/mnras/stae420
     - title: "GRB 230911A: The First Discovery of a Fermi GRB Optical Counterpart with the Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Belkin, S. et al."
       year: 2024
@@ -292,7 +292,7 @@ coauthor:
       journal: "The Astrophysical Journal, 938, 110"
       url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
       bibcode: "2022ApJ...938..110B"
-      citations: 1286
+      citations: 1292
       doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
