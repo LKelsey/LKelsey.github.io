@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-04-13 07:52 UTC
+# Auto-generated from ADS library on 2026-04-14 07:22 UTC
 # Do not edit manually
 
 first_author:
@@ -62,14 +62,6 @@ coauthor:
       bibcode: "2026arXiv260306344R"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2603.06344
-    - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
-      authors: "Khamrat, Sutharut et al."
-      year: 2026
-      journal: "Universe, 12, 53"
-      url: https://ui.adsabs.harvard.edu/abs/2026Univ...12...53K/abstract
-      bibcode: "2026Univ...12...53K"
-      citations: 0
-      doi: https://doi.org/10.3390/universe12020053
     - title: "Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology"
       authors: "Sarin, Nikhil et al."
       year: 2026
@@ -86,6 +78,14 @@ coauthor:
       bibcode: "2026arXiv260216559B"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2602.16559
+    - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
+      authors: "Khamrat, Sutharut et al."
+      year: 2026
+      journal: "Universe, 12, 53"
+      url: https://ui.adsabs.harvard.edu/abs/2026Univ...12...53K/abstract
+      bibcode: "2026Univ...12...53K"
+      citations: 0
+      doi: https://doi.org/10.3390/universe12020053
     - title: "Still Accelerating: Type Ia supernova cosmology is robust to host galaxy age evolution"
       authors: "Wiseman, Phil et al."
       year: 2026
@@ -254,14 +254,6 @@ coauthor:
       bibcode: "2023MNRAS.520..684G"
       citations: 11
       doi: https://doi.org/10.1093/mnras/stad056
-    - title: "The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust"
-      authors: "Meldorf, C. et al."
-      year: 2023
-      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1985"
-      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1985M/abstract
-      bibcode: "2023MNRAS.518.1985M"
-      citations: 43
-      doi: https://doi.org/10.1093/mnras/stac3056
     - title: "The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification"
       authors: "Vincenzi, M. et al."
       year: 2023
@@ -270,6 +262,14 @@ coauthor:
       bibcode: "2023MNRAS.518.1106V"
       citations: 36
       doi: https://doi.org/10.1093/mnras/stac1404
+    - title: "The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust"
+      authors: "Meldorf, C. et al."
+      year: 2023
+      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1985"
+      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1985M/abstract
+      bibcode: "2023MNRAS.518.1985M"
+      citations: 43
+      doi: https://doi.org/10.1093/mnras/stac3056
     - title: "Using host galaxy spectroscopy to explore systematics in the standardization of Type Ia supernovae"
       authors: "Dixon, M. et al."
       year: 2022
@@ -358,14 +358,6 @@ coauthor:
       bibcode: "2020MNRAS.495.4040W"
       citations: 62
       doi: https://doi.org/10.1093/mnras/staa1302
-    - title: "The mystery of photometric twins DES17X1boj and DES16E2bjy"
-      authors: "Pursiainen, M. et al."
-      year: 2020
-      journal: "Monthly Notices of the Royal Astronomical Society, 494, 5576"
-      url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5576P/abstract
-      bibcode: "2020MNRAS.494.5576P"
-      citations: 6
-      doi: https://doi.org/10.1093/mnras/staa995
     - title: "Supernova Siblings: Assessing the Consistency of Properties of Type Ia Supernovae that Share the Same Parent Galaxies"
       authors: "Scolnic, D. et al."
       year: 2020
@@ -374,6 +366,14 @@ coauthor:
       bibcode: "2020ApJ...896L..13S"
       citations: 35
       doi: https://doi.org/10.3847/2041-8213/ab8735
+    - title: "The mystery of photometric twins DES17X1boj and DES16E2bjy"
+      authors: "Pursiainen, M. et al."
+      year: 2020
+      journal: "Monthly Notices of the Royal Astronomical Society, 494, 5576"
+      url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5576P/abstract
+      bibcode: "2020MNRAS.494.5576P"
+      citations: 6
+      doi: https://doi.org/10.1093/mnras/staa995
     - title: "First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity"
       authors: "Smith, M. et al."
       year: 2020
