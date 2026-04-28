@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-04-27 08:10 UTC
+# Auto-generated from ADS library on 2026-04-28 08:12 UTC
 # Do not edit manually
 
 first_author:
@@ -54,14 +54,6 @@ coauthor:
       bibcode: "2026MNRAS.tmp..650P"
       citations: 68
       doi: https://doi.org/10.1093/mnras/stag632
-    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
-      authors: "Lyman, J. D. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.02330"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
-      bibcode: "2026arXiv260302330L"
-      citations: 1
-      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
       authors: "Boyd, Benjamin M. et al."
       year: 2026
@@ -70,6 +62,14 @@ coauthor:
       bibcode: "2026arXiv260311165B"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2603.11165
+    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
+      authors: "Lyman, J. D. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2603.02330"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
+      bibcode: "2026arXiv260302330L"
+      citations: 1
+      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
