@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-05-03 07:52 UTC
+# Auto-generated from ADS library on 2026-05-04 08:21 UTC
 # Do not edit manually
 
 first_author:
@@ -16,7 +16,7 @@ first_author:
       journal: "Monthly Notices of the Royal Astronomical Society, 519, 3046"
       url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3046K/abstract
       bibcode: "2023MNRAS.519.3046K"
-      citations: 44
+      citations: 45
       doi: https://doi.org/10.1093/mnras/stac3711
     - title: "The effect of environment on Type Ia supernovae in the Dark Energy Survey three-year cosmological sample"
       authors: "Kelsey, L. et al."
@@ -124,7 +124,7 @@ coauthor:
       journal: "The Astrophysical Journal, 992, 158"
       url: https://ui.adsabs.harvard.edu/abs/2025ApJ...992..158F/abstract
       bibcode: "2025ApJ...992..158F"
-      citations: 24
+      citations: 25
       doi: https://doi.org/10.3847/1538-4357/adff4e
     - title: "GOTO065054+593624: An 8.5 mag amplitude dwarf nova identified in real time via Kilonova Seekers"
       authors: "Killestein, T. L. et al."
@@ -158,14 +158,6 @@ coauthor:
       bibcode: "2025MNRAS.536.3588W"
       citations: 11
       doi: https://doi.org/10.1093/mnras/stae2784
-    - title: "The Dark Energy Survey Supernova Program: Light Curves and 5 Yr Data Release"
-      authors: "Sánchez, B. O. et al."
-      year: 2024
-      journal: "The Astrophysical Journal, 975, 5"
-      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975....5S/abstract
-      bibcode: "2024ApJ...975....5S"
-      citations: 73
-      doi: https://doi.org/10.3847/1538-4357/ad739a
     - title: "Modelling the impact of host galaxy dust on type Ia supernova distance measurements"
       authors: "Popovic, B. et al."
       year: 2024
@@ -180,15 +172,23 @@ coauthor:
       journal: "The Astrophysical Journal, 975, 86"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
       bibcode: "2024ApJ...975...86V"
-      citations: 138
+      citations: 139
       doi: https://doi.org/10.3847/1538-4357/ad5e6c
+    - title: "The Dark Energy Survey Supernova Program: Light Curves and 5 Yr Data Release"
+      authors: "Sánchez, B. O. et al."
+      year: 2024
+      journal: "The Astrophysical Journal, 975, 5"
+      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975....5S/abstract
+      bibcode: "2024ApJ...975....5S"
+      citations: 74
+      doi: https://doi.org/10.3847/1538-4357/ad739a
     - title: "The Dark Energy Survey: Cosmology Results with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5 yr Data Set"
       authors: "DES Collaboration et al."
       year: 2024
       journal: "The Astrophysical Journal, 973, L14"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...973L..14D/abstract
       bibcode: "2024ApJ...973L..14D"
-      citations: 604
+      citations: 605
       doi: https://doi.org/10.3847/2041-8213/ad6f9f
     - title: "The Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Dyer, Martin J. et al."
@@ -292,7 +292,7 @@ coauthor:
       journal: "The Astrophysical Journal, 938, 62"
       url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938...62C/abstract
       bibcode: "2022ApJ...938...62C"
-      citations: 33
+      citations: 34
       doi: https://doi.org/10.3847/1538-4357/ac8b82
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
@@ -380,5 +380,5 @@ coauthor:
       journal: "Monthly Notices of the Royal Astronomical Society, 494, 4426"
       url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.4426S/abstract
       bibcode: "2020MNRAS.494.4426S"
-      citations: 101
+      citations: 102
       doi: https://doi.org/10.1093/mnras/staa946
