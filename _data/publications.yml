@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-05-10 08:00 UTC
+# Auto-generated from ADS library on 2026-05-11 09:29 UTC
 # Do not edit manually
 
 first_author:
@@ -8,7 +8,7 @@ first_author:
       journal: "Monthly Notices of the Royal Astronomical Society, 527, 8015"
       url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.8015K/abstract
       bibcode: "2024MNRAS.527.8015K"
-      citations: 13
+      citations: 14
       doi: https://doi.org/10.1093/mnras/stad3587
     - title: "Concerning colour: The effect of environment on type Ia supernova colour in the dark energy survey"
       authors: "Kelsey, L. et al."
@@ -54,14 +54,6 @@ coauthor:
       bibcode: "2026MNRAS.tmp..650P"
       citations: 74
       doi: https://doi.org/10.1093/mnras/stag632
-    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
-      authors: "Lyman, J. D. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.02330"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
-      bibcode: "2026arXiv260302330L"
-      citations: 1
-      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
@@ -78,6 +70,14 @@ coauthor:
       bibcode: "2026arXiv260311165B"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2603.11165
+    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
+      authors: "Lyman, J. D. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2603.02330"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
+      bibcode: "2026arXiv260302330L"
+      citations: 1
+      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
       year: 2026
@@ -158,14 +158,6 @@ coauthor:
       bibcode: "2025MNRAS.536.3588W"
       citations: 11
       doi: https://doi.org/10.1093/mnras/stae2784
-    - title: "Modelling the impact of host galaxy dust on type Ia supernova distance measurements"
-      authors: "Popovic, B. et al."
-      year: 2024
-      journal: "Monthly Notices of the Royal Astronomical Society, 534, 2263"
-      url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.2263P/abstract
-      bibcode: "2024MNRAS.534.2263P"
-      citations: 14
-      doi: https://doi.org/10.1093/mnras/stae2164
     - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
       authors: "Vincenzi, M. et al."
       year: 2024
@@ -182,6 +174,14 @@ coauthor:
       bibcode: "2024ApJ...975....5S"
       citations: 76
       doi: https://doi.org/10.3847/1538-4357/ad739a
+    - title: "Modelling the impact of host galaxy dust on type Ia supernova distance measurements"
+      authors: "Popovic, B. et al."
+      year: 2024
+      journal: "Monthly Notices of the Royal Astronomical Society, 534, 2263"
+      url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.2263P/abstract
+      bibcode: "2024MNRAS.534.2263P"
+      citations: 14
+      doi: https://doi.org/10.1093/mnras/stae2164
     - title: "The Dark Energy Survey: Cosmology Results with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5 yr Data Set"
       authors: "DES Collaboration et al."
       year: 2024
@@ -278,14 +278,6 @@ coauthor:
       bibcode: "2022MNRAS.517.4291D"
       citations: 14
       doi: https://doi.org/10.1093/mnras/stac2994
-    - title: "The Pantheon+ Analysis: Cosmological Constraints"
-      authors: "Brout, Dillon et al."
-      year: 2022
-      journal: "The Astrophysical Journal, 938, 110"
-      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
-      bibcode: "2022ApJ...938..110B"
-      citations: 1361
-      doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies"
       authors: "Chen, R. et al."
       year: 2022
@@ -294,6 +286,14 @@ coauthor:
       bibcode: "2022ApJ...938...62C"
       citations: 34
       doi: https://doi.org/10.3847/1538-4357/ac8b82
+    - title: "The Pantheon+ Analysis: Cosmological Constraints"
+      authors: "Brout, Dillon et al."
+      year: 2022
+      journal: "The Astrophysical Journal, 938, 110"
+      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
+      bibcode: "2022ApJ...938..110B"
+      citations: 1363
+      doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
       year: 2022
@@ -326,14 +326,6 @@ coauthor:
       bibcode: "2021MNRAS.506.3330W"
       citations: 68
       doi: https://doi.org/10.1093/mnras/stab1943
-    - title: "The Dark Energy Survey supernova programme: modelling selection efficiency and observed core-collapse supernova contamination"
-      authors: "Vincenzi, M. et al."
-      year: 2021
-      journal: "Monthly Notices of the Royal Astronomical Society, 505, 2819"
-      url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.2819V/abstract
-      bibcode: "2021MNRAS.505.2819V"
-      citations: 45
-      doi: https://doi.org/10.1093/mnras/stab1353
     - title: "Understanding the extreme luminosity of DES14X2fna"
       authors: "Grayling, M. et al."
       year: 2021
@@ -342,6 +334,14 @@ coauthor:
       bibcode: "2021MNRAS.505.3950G"
       citations: 8
       doi: https://doi.org/10.1093/mnras/stab1478
+    - title: "The Dark Energy Survey supernova programme: modelling selection efficiency and observed core-collapse supernova contamination"
+      authors: "Vincenzi, M. et al."
+      year: 2021
+      journal: "Monthly Notices of the Royal Astronomical Society, 505, 2819"
+      url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.2819V/abstract
+      bibcode: "2021MNRAS.505.2819V"
+      citations: 45
+      doi: https://doi.org/10.1093/mnras/stab1353
     - title: "The host galaxies of 106 rapidly evolving transients discovered by the Dark Energy Survey"
       authors: "Wiseman, P. et al."
       year: 2020
@@ -372,7 +372,7 @@ coauthor:
       journal: "The Astrophysical Journal, 896, L13"
       url: https://ui.adsabs.harvard.edu/abs/2020ApJ...896L..13S/abstract
       bibcode: "2020ApJ...896L..13S"
-      citations: 35
+      citations: 36
       doi: https://doi.org/10.3847/2041-8213/ab8735
     - title: "First cosmology results using type Ia supernovae from the Dark Energy Survey: the effect of host galaxy properties on supernova luminosity"
       authors: "Smith, M. et al."
