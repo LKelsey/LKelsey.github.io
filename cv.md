@@ -126,19 +126,6 @@ To date, I have raised **>£200,000** in fellowships and grants.
 
 Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% for t in sorted %}{% if t.title == latest.title %}{% if shown > 0 %},{% endif %} {{ t.venue | split: ', ' | last }} ({{ t.date | date: '%b %Y' }}){% assign shown = shown | plus: 1 %}{% endif %}{% endfor %}.
 
-**{{ invited_done }}** invited conference presentations or seminars. **{{ contributed_done }}** further contributed talks.
-
-{%- assign sorted = site.data.conference_talks.invited | sort: 'date' | reverse -%}
-{%- assign latest = sorted | first -%}
-Most recent invited seminar: *{{ latest.title }}* —
-{%- assign shown = 0 -%}
-{%- for t in sorted -%}
-  {%- if t.title == latest.title -%}
-    {%- if shown > 0 %},{% endif %} {{ t.venue | split: ', ' | last }} ({{ t.date | date: '%b %Y' }})
-    {%- assign shown = shown | plus: 1 -%}
-  {%- endif -%}
-{%- endfor -%}.
-
 ## Teaching
 
 <div class="cv-entry">
