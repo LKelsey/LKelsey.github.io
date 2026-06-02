@@ -9,6 +9,23 @@ permalink: /publications/
 
 Auto-generated from my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/AXbFp7rzT2aLpzhpEIiOWQ).
 
+{%- assign all_pubs = site.data.publications.first_author | concat: site.data.publications.joint_first_author | concat: site.data.publications.coauthor -%}
+{%- assign total = all_pubs | size -%}
+{%- assign lead = site.data.publications.first_author | size | plus: site.data.publications.joint_first_author.size -%}
+{%- assign citations = 0 -%}
+{%- for pub in all_pubs -%}{%- assign citations = citations | plus: pub.citations -%}{%- endfor -%}
+{%- assign h = 0 -%}
+{%- assign rank = 0 -%}
+{%- assign ranked = all_pubs | sort: 'citations' | reverse -%}
+{%- for pub in ranked -%}{%- assign rank = rank | plus: 1 -%}{%- if pub.citations >= rank -%}{%- assign h = rank -%}{%- endif -%}{%- endfor -%}
+
+<div class="pub-metrics">
+  <div class="metric"><span class="metric-num">{{ total }}</span><span class="metric-label">Publications</span></div>
+  <div class="metric"><span class="metric-num">{{ lead }}</span><span class="metric-label">First / joint-first author</span></div>
+  <div class="metric"><span class="metric-num">{{ citations }}</span><span class="metric-label">Total citations</span></div>
+  <div class="metric"><span class="metric-num">{{ h }}</span><span class="metric-label">h-index</span></div>
+</div>
+
 ## First-Author Publications
 
 {% for pub in site.data.publications.first_author %}
