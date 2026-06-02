@@ -120,17 +120,11 @@ To date, I have raised **>£200,000** in fellowships and grants.
 
 ## Conference Presentations & Seminars
 
-{%- assign now = 'now' | date: '%s' | plus: 0 -%}
-{%- assign invited_done = 0 -%}
-{%- for t in site.data.conference_talks.invited -%}
-  {%- assign ts = t.date | date: '%s' | plus: 0 -%}
-  {%- if ts <= now -%}{%- assign invited_done = invited_done | plus: 1 -%}{%- endif -%}
-{%- endfor -%}
-{%- assign contributed_done = 0 -%}
-{%- for t in site.data.conference_talks.contributed -%}
-  {%- assign ts = t.date | date: '%s' | plus: 0 -%}
-  {%- if ts <= now -%}{%- assign contributed_done = contributed_done | plus: 1 -%}{%- endif -%}
-{%- endfor -%}
+{% assign now = 'now' | date: '%s' | plus: 0 %}{% assign invited_done = 0 %}{% for t in site.data.conference_talks.invited %}{% assign ts = t.date | date: '%s' | plus: 0 %}{% if ts <= now %}{% assign invited_done = invited_done | plus: 1 %}{% endif %}{% endfor %}{% assign contributed_done = 0 %}{% for t in site.data.conference_talks.contributed %}{% assign ts = t.date | date: '%s' | plus: 0 %}{% if ts <= now %}{% assign contributed_done = contributed_done | plus: 1 %}{% endif %}{% endfor %}{% assign sorted = site.data.conference_talks.invited | sort: 'date' | reverse %}{% assign latest = sorted | first %}
+
+**{{ invited_done }}** invited conference presentations or seminars. **{{ contributed_done }}** further contributed talks.
+
+Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% for t in sorted %}{% if t.title == latest.title %}{% if shown > 0 %},{% endif %} {{ t.venue | split: ', ' | last }} ({{ t.date | date: '%b %Y' }}){% assign shown = shown | plus: 1 %}{% endif %}{% endfor %}.
 
 **{{ invited_done }}** invited conference presentations or seminars. **{{ contributed_done }}** further contributed talks.
 
