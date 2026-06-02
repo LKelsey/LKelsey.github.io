@@ -306,3 +306,8 @@ footer a { color: var(--color-text-light); }
   color: var(--color-text); transition: border-color 0.2s;
 }
 .theme-toggle:hover { border-color: var(--color-accent); }
+
+.pub-metrics { display: flex; flex-wrap: wrap; gap: 1.75rem; margin: 1.5rem 0 2.5rem; }
+.metric { display: flex; flex-direction: column; }
+.metric-num { font-size: 1.8rem; font-weight: 600; line-height: 1; }
+.metric-label { font-size: 0.8rem; color: var(--color-text-light); margin-top: 0.3rem; }
