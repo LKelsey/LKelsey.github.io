@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-06-04 09:46 UTC
+# Auto-generated from ADS library on 2026-06-05 09:35 UTC
 # Do not edit manually
 
 first_author:
@@ -46,6 +46,13 @@ coauthor:
       bibcode: "2026MNRAS.548ag632P"
       citations: 85
       doi: https://doi.org/10.1093/mnras/stag632
+    - title: "On the origin of the environmental step: A BayeSN view of the ZTF SN Ia DR2"
+      authors: "Ginolin, Madeleine et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2605.06799"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260506799G/abstract
+      bibcode: "2026arXiv260506799G"
+      citations: 0
     - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
       authors: "Killestein, T. L. et al."
       year: 2026
@@ -54,13 +61,6 @@ coauthor:
       bibcode: "2026MNRAS.548f2261K"
       citations: 3
       doi: https://doi.org/10.1093/mnras/staf2261
-    - title: "On the origin of the environmental step: A BayeSN view of the ZTF SN Ia DR2"
-      authors: "Ginolin, Madeleine et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2605.06799"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260506799G/abstract
-      bibcode: "2026arXiv260506799G"
-      citations: 0
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
@@ -69,14 +69,6 @@ coauthor:
       bibcode: "2026arXiv260306344R"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2603.06344
-    - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
-      authors: "Boyd, Benjamin M. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.11165"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260311165B/abstract
-      bibcode: "2026arXiv260311165B"
-      citations: 0
-      doi: https://doi.org/10.48550/arXiv.2603.11165
     - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
       authors: "Lyman, J. D. et al."
       year: 2026
@@ -85,6 +77,22 @@ coauthor:
       bibcode: "2026arXiv260302330L"
       citations: 2
       doi: https://doi.org/10.48550/arXiv.2603.02330
+    - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
+      authors: "Boyd, Benjamin M. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2603.11165"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260311165B/abstract
+      bibcode: "2026arXiv260311165B"
+      citations: 0
+      doi: https://doi.org/10.48550/arXiv.2603.11165
+    - title: "Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology"
+      authors: "Sarin, Nikhil et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2602.02677"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260202677S/abstract
+      bibcode: "2026arXiv260202677S"
+      citations: 3
+      doi: https://doi.org/10.48550/arXiv.2602.02677
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
       year: 2026
@@ -101,14 +109,6 @@ coauthor:
       bibcode: "2026arXiv260216559B"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2602.16559
-    - title: "Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology"
-      authors: "Sarin, Nikhil et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2602.02677"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260202677S/abstract
-      bibcode: "2026arXiv260202677S"
-      citations: 3
-      doi: https://doi.org/10.48550/arXiv.2602.02677
     - title: "Still Accelerating: Type Ia supernova cosmology is robust to host galaxy age evolution"
       authors: "Wiseman, Phil et al."
       year: 2026
