@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-06-06 08:26 UTC
+# Auto-generated from ADS library on 2026-06-07 08:47 UTC
 # Do not edit manually
 
 first_author:
@@ -44,7 +44,7 @@ coauthor:
       journal: "Monthly Notices of the Royal Astronomical Society, 548, stag632"
       url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag632P/abstract
       bibcode: "2026MNRAS.548ag632P"
-      citations: 86
+      citations: 85
       doi: https://doi.org/10.1093/mnras/stag632
     - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
       authors: "Killestein, T. L. et al."
@@ -61,14 +61,6 @@ coauthor:
       url: https://ui.adsabs.harvard.edu/abs/2026arXiv260506799G/abstract
       bibcode: "2026arXiv260506799G"
       citations: 0
-    - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
-      authors: "Boyd, Benjamin M. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.11165"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260311165B/abstract
-      bibcode: "2026arXiv260311165B"
-      citations: 0
-      doi: https://doi.org/10.48550/arXiv.2603.11165
     - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
       authors: "Lyman, J. D. et al."
       year: 2026
@@ -77,6 +69,14 @@ coauthor:
       bibcode: "2026arXiv260302330L"
       citations: 2
       doi: https://doi.org/10.48550/arXiv.2603.02330
+    - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
+      authors: "Boyd, Benjamin M. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2603.11165"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260311165B/abstract
+      bibcode: "2026arXiv260311165B"
+      citations: 0
+      doi: https://doi.org/10.48550/arXiv.2603.11165
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
@@ -85,14 +85,6 @@ coauthor:
       bibcode: "2026arXiv260306344R"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2603.06344
-    - title: "Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology"
-      authors: "Sarin, Nikhil et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2602.02677"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260202677S/abstract
-      bibcode: "2026arXiv260202677S"
-      citations: 3
-      doi: https://doi.org/10.48550/arXiv.2602.02677
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
       year: 2026
@@ -101,6 +93,14 @@ coauthor:
       bibcode: "2026Univ...12...53K"
       citations: 0
       doi: https://doi.org/10.3390/universe12020053
+    - title: "Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology"
+      authors: "Sarin, Nikhil et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2602.02677"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260202677S/abstract
+      bibcode: "2026arXiv260202677S"
+      citations: 3
+      doi: https://doi.org/10.48550/arXiv.2602.02677
     - title: "GOTO identification and broadband modelling of the counterpart to the SVOM GRB 250818B"
       authors: "Belkin, S. et al."
       year: 2026
@@ -165,14 +165,6 @@ coauthor:
       bibcode: "2025MNRAS.536.3588W"
       citations: 11
       doi: https://doi.org/10.1093/mnras/stae2784
-    - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
-      authors: "Vincenzi, M. et al."
-      year: 2024
-      journal: "The Astrophysical Journal, 975, 86"
-      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
-      bibcode: "2024ApJ...975...86V"
-      citations: 144
-      doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "Modelling the impact of host galaxy dust on type Ia supernova distance measurements"
       authors: "Popovic, B. et al."
       year: 2024
@@ -189,13 +181,21 @@ coauthor:
       bibcode: "2024ApJ...975....5S"
       citations: 78
       doi: https://doi.org/10.3847/1538-4357/ad739a
+    - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
+      authors: "Vincenzi, M. et al."
+      year: 2024
+      journal: "The Astrophysical Journal, 975, 86"
+      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
+      bibcode: "2024ApJ...975...86V"
+      citations: 144
+      doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "The Dark Energy Survey: Cosmology Results with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5 yr Data Set"
       authors: "DES Collaboration et al."
       year: 2024
       journal: "The Astrophysical Journal, 973, L14"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...973L..14D/abstract
       bibcode: "2024ApJ...973L..14D"
-      citations: 626
+      citations: 624
       doi: https://doi.org/10.3847/2041-8213/ad6f9f
     - title: "The Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Dyer, Martin J. et al."
@@ -285,14 +285,6 @@ coauthor:
       bibcode: "2022MNRAS.517.4291D"
       citations: 14
       doi: https://doi.org/10.1093/mnras/stac2994
-    - title: "Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies"
-      authors: "Chen, R. et al."
-      year: 2022
-      journal: "The Astrophysical Journal, 938, 62"
-      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938...62C/abstract
-      bibcode: "2022ApJ...938...62C"
-      citations: 34
-      doi: https://doi.org/10.3847/1538-4357/ac8b82
     - title: "The Pantheon+ Analysis: Cosmological Constraints"
       authors: "Brout, Dillon et al."
       year: 2022
@@ -301,6 +293,14 @@ coauthor:
       bibcode: "2022ApJ...938..110B"
       citations: 1402
       doi: https://doi.org/10.3847/1538-4357/ac8e04
+    - title: "Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies"
+      authors: "Chen, R. et al."
+      year: 2022
+      journal: "The Astrophysical Journal, 938, 62"
+      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938...62C/abstract
+      bibcode: "2022ApJ...938...62C"
+      citations: 34
+      doi: https://doi.org/10.3847/1538-4357/ac8b82
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
       year: 2022
