@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-06-12 09:59 UTC
+# Auto-generated from ADS library on 2026-06-13 08:49 UTC
 # Do not edit manually
 
 first_author:
@@ -54,6 +54,13 @@ coauthor:
       bibcode: "2026MNRAS.tmp..972B"
       citations: 0
       doi: https://doi.org/10.1093/mnras/stag1046
+    - title: "On the origin of the environmental step: A BayeSN view of the ZTF SN Ia DR2"
+      authors: "Ginolin, Madeleine et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2605.06799"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260506799G/abstract
+      bibcode: "2026arXiv260506799G"
+      citations: 0
     - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
       authors: "Killestein, T. L. et al."
       year: 2026
@@ -62,13 +69,6 @@ coauthor:
       bibcode: "2026MNRAS.548f2261K"
       citations: 3
       doi: https://doi.org/10.1093/mnras/staf2261
-    - title: "On the origin of the environmental step: A BayeSN view of the ZTF SN Ia DR2"
-      authors: "Ginolin, Madeleine et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2605.06799"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260506799G/abstract
-      bibcode: "2026arXiv260506799G"
-      citations: 0
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
@@ -195,7 +195,7 @@ coauthor:
       journal: "The Astrophysical Journal, 973, L14"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...973L..14D/abstract
       bibcode: "2024ApJ...973L..14D"
-      citations: 629
+      citations: 630
       doi: https://doi.org/10.3847/2041-8213/ad6f9f
     - title: "The Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Dyer, Martin J. et al."
@@ -299,7 +299,7 @@ coauthor:
       journal: "The Astrophysical Journal, 938, 110"
       url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
       bibcode: "2022ApJ...938..110B"
-      citations: 1405
+      citations: 1406
       doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
