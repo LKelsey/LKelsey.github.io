@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-06-18 10:10 UTC
+# Auto-generated from ADS library on 2026-06-19 10:16 UTC
 # Do not edit manually
 
 first_author:
@@ -16,7 +16,7 @@ first_author:
       journal: "Monthly Notices of the Royal Astronomical Society, 519, 3046"
       url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.519.3046K/abstract
       bibcode: "2023MNRAS.519.3046K"
-      citations: 47
+      citations: 48
       doi: https://doi.org/10.1093/mnras/stac3711
     - title: "The effect of environment on Type Ia supernovae in the Dark Energy Survey three-year cosmological sample"
       authors: "Kelsey, L. et al."
@@ -60,7 +60,7 @@ coauthor:
       journal: "Monthly Notices of the Royal Astronomical Society, 548, stag632"
       url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag632P/abstract
       bibcode: "2026MNRAS.548ag632P"
-      citations: 90
+      citations: 91
       doi: https://doi.org/10.1093/mnras/stag632
     - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
       authors: "Killestein, T. L. et al."
@@ -172,7 +172,7 @@ coauthor:
       journal: "The Astrophysical Journal, 975, 86"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
       bibcode: "2024ApJ...975...86V"
-      citations: 145
+      citations: 146
       doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "The Dark Energy Survey Supernova Program: Light Curves and 5 Yr Data Release"
       authors: "Sánchez, B. O. et al."
@@ -180,7 +180,7 @@ coauthor:
       journal: "The Astrophysical Journal, 975, 5"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975....5S/abstract
       bibcode: "2024ApJ...975....5S"
-      citations: 80
+      citations: 81
       doi: https://doi.org/10.3847/1538-4357/ad739a
     - title: "Modelling the impact of host galaxy dust on type Ia supernova distance measurements"
       authors: "Popovic, B. et al."
@@ -196,7 +196,7 @@ coauthor:
       journal: "The Astrophysical Journal, 973, L14"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...973L..14D/abstract
       bibcode: "2024ApJ...973L..14D"
-      citations: 632
+      citations: 634
       doi: https://doi.org/10.3847/2041-8213/ad6f9f
     - title: "The Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Dyer, Martin J. et al."
@@ -238,14 +238,6 @@ coauthor:
       bibcode: "2024RNAAS...8....6B"
       citations: 4
       doi: https://doi.org/10.3847/2515-5172/ad1876
-    - title: "Rates and properties of Type Ia supernovae in galaxy clusters within the dark energy survey"
-      authors: "Toy, M. et al."
-      year: 2023
-      journal: "Monthly Notices of the Royal Astronomical Society, 526, 5292"
-      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.5292T/abstract
-      bibcode: "2023MNRAS.526.5292T"
-      citations: 16
-      doi: https://doi.org/10.1093/mnras/stad2982
     - title: "A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies"
       authors: "Duarte, J. et al."
       year: 2023
@@ -254,6 +246,14 @@ coauthor:
       bibcode: "2023A&A...680A..56D"
       citations: 19
       doi: https://doi.org/10.1051/0004-6361/202346534
+    - title: "Rates and properties of Type Ia supernovae in galaxy clusters within the dark energy survey"
+      authors: "Toy, M. et al."
+      year: 2023
+      journal: "Monthly Notices of the Royal Astronomical Society, 526, 5292"
+      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.5292T/abstract
+      bibcode: "2023MNRAS.526.5292T"
+      citations: 16
+      doi: https://doi.org/10.1093/mnras/stad2982
     - title: "Core-collapse supernovae in the Dark Energy Survey: luminosity functions and host galaxy demographics"
       authors: "Grayling, M. et al."
       year: 2023
@@ -316,7 +316,7 @@ coauthor:
       journal: "Monthly Notices of the Royal Astronomical Society, 514, 5159"
       url: https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.5159M/abstract
       bibcode: "2022MNRAS.514.5159M"
-      citations: 47
+      citations: 48
       doi: https://doi.org/10.1093/mnras/stac1691
     - title: "Cosmological Results from the RAISIN Survey: Using Type Ia Supernovae in the Near Infrared as a Novel Path to Measure the Dark Energy Equation of State"
       authors: "Jones, D. O. et al."
