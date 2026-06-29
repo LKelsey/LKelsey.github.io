@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-06-28 08:43 UTC
+# Auto-generated from ADS library on 2026-06-29 10:28 UTC
 # Do not edit manually
 
 first_author:
@@ -46,14 +46,6 @@ coauthor:
       bibcode: "2026MNRAS.549ag797W"
       citations: 6
       doi: https://doi.org/10.1093/mnras/stag797
-    - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
-      authors: "Boyd, Benjamin M. et al."
-      year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp..972B/abstract
-      bibcode: "2026MNRAS.tmp..972B"
-      citations: 1
-      doi: https://doi.org/10.1093/mnras/stag1046
     - title: "The Dark Energy Survey supernova program: a reanalysis of cosmology results and evidence for evolving dark energy with an updated Type Ia supernova calibration"
       authors: "Popovic, B. et al."
       year: 2026
@@ -62,14 +54,14 @@ coauthor:
       bibcode: "2026MNRAS.548ag632P"
       citations: 95
       doi: https://doi.org/10.1093/mnras/stag632
-    - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
-      authors: "Killestein, T. L. et al."
+    - title: "FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology"
+      authors: "Boyd, Benjamin M. et al."
       year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 548, staf2261"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.548f2261K/abstract
-      bibcode: "2026MNRAS.548f2261K"
-      citations: 3
-      doi: https://doi.org/10.1093/mnras/staf2261
+      journal: "Monthly Notices of the Royal Astronomical Society"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp..972B/abstract
+      bibcode: "2026MNRAS.tmp..972B"
+      citations: 1
+      doi: https://doi.org/10.1093/mnras/stag1046
     - title: "On the origin of the environmental step: A BayeSN view of the ZTF SN Ia DR2"
       authors: "Ginolin, Madeleine et al."
       year: 2026
@@ -78,6 +70,14 @@ coauthor:
       bibcode: "2026arXiv260506799G"
       citations: 1
       doi: https://doi.org/10.48550/arXiv.2605.06799
+    - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
+      authors: "Killestein, T. L. et al."
+      year: 2026
+      journal: "Monthly Notices of the Royal Astronomical Society, 548, staf2261"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.548f2261K/abstract
+      bibcode: "2026MNRAS.548f2261K"
+      citations: 3
+      doi: https://doi.org/10.1093/mnras/staf2261
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
@@ -174,14 +174,6 @@ coauthor:
       bibcode: "2024MNRAS.534.2263P"
       citations: 18
       doi: https://doi.org/10.1093/mnras/stae2164
-    - title: "The Dark Energy Survey Supernova Program: Light Curves and 5 Yr Data Release"
-      authors: "Sánchez, B. O. et al."
-      year: 2024
-      journal: "The Astrophysical Journal, 975, 5"
-      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975....5S/abstract
-      bibcode: "2024ApJ...975....5S"
-      citations: 82
-      doi: https://doi.org/10.3847/1538-4357/ad739a
     - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
       authors: "Vincenzi, M. et al."
       year: 2024
@@ -190,6 +182,14 @@ coauthor:
       bibcode: "2024ApJ...975...86V"
       citations: 147
       doi: https://doi.org/10.3847/1538-4357/ad5e6c
+    - title: "The Dark Energy Survey Supernova Program: Light Curves and 5 Yr Data Release"
+      authors: "Sánchez, B. O. et al."
+      year: 2024
+      journal: "The Astrophysical Journal, 975, 5"
+      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975....5S/abstract
+      bibcode: "2024ApJ...975....5S"
+      citations: 82
+      doi: https://doi.org/10.3847/1538-4357/ad739a
     - title: "The Dark Energy Survey: Cosmology Results with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5 yr Data Set"
       authors: "DES Collaboration et al."
       year: 2024
