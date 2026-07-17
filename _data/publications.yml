@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-07-16 08:00 UTC
+# Auto-generated from ADS library on 2026-07-17 07:57 UTC
 # Do not edit manually
 
 first_author:
@@ -78,14 +78,6 @@ coauthor:
       bibcode: "2026MNRAS.548f2261K"
       citations: 4
       doi: https://doi.org/10.1093/mnras/staf2261
-    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
-      authors: "Lyman, J. D. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.02330"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
-      bibcode: "2026arXiv260302330L"
-      citations: 3
-      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
@@ -94,6 +86,14 @@ coauthor:
       bibcode: "2026arXiv260306344R"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2603.06344
+    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
+      authors: "Lyman, J. D. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2603.02330"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
+      bibcode: "2026arXiv260302330L"
+      citations: 3
+      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
       year: 2026
@@ -174,14 +174,6 @@ coauthor:
       bibcode: "2024MNRAS.534.2263P"
       citations: 18
       doi: https://doi.org/10.1093/mnras/stae2164
-    - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
-      authors: "Vincenzi, M. et al."
-      year: 2024
-      journal: "The Astrophysical Journal, 975, 86"
-      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
-      bibcode: "2024ApJ...975...86V"
-      citations: 152
-      doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "The Dark Energy Survey Supernova Program: Light Curves and 5 Yr Data Release"
       authors: "Sánchez, B. O. et al."
       year: 2024
@@ -190,6 +182,14 @@ coauthor:
       bibcode: "2024ApJ...975....5S"
       citations: 84
       doi: https://doi.org/10.3847/1538-4357/ad739a
+    - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
+      authors: "Vincenzi, M. et al."
+      year: 2024
+      journal: "The Astrophysical Journal, 975, 86"
+      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
+      bibcode: "2024ApJ...975...86V"
+      citations: 152
+      doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "The Dark Energy Survey: Cosmology Results with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5 yr Data Set"
       authors: "DES Collaboration et al."
       year: 2024
@@ -292,7 +292,7 @@ coauthor:
       journal: "The Astrophysical Journal, 938, 110"
       url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
       bibcode: "2022ApJ...938..110B"
-      citations: 1450
+      citations: 1451
       doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies"
       authors: "Chen, R. et al."
