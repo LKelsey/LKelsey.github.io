@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-07-28 08:21 UTC
+# Auto-generated from ADS library on 2026-07-29 08:27 UTC
 # Do not edit manually
 
 first_author:
@@ -46,14 +46,6 @@ coauthor:
       bibcode: "2026MNRAS.550g1193B"
       citations: 0
       doi: https://doi.org/10.1093/mnras/stag1193
-    - title: "FlowSN: neural simulation-based inference under realistic selection effects applied to supernova cosmology"
-      authors: "Boyd, Benjamin M. et al."
-      year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 550, stag1046"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1046B/abstract
-      bibcode: "2026MNRAS.550g1046B"
-      citations: 4
-      doi: https://doi.org/10.1093/mnras/stag1046
     - title: "Still accelerating: type Ia supernova cosmology is robust to host galaxy age evolution"
       authors: "Wiseman, Phil et al."
       year: 2026
@@ -62,6 +54,14 @@ coauthor:
       bibcode: "2026MNRAS.549ag797W"
       citations: 7
       doi: https://doi.org/10.1093/mnras/stag797
+    - title: "FlowSN: neural simulation-based inference under realistic selection effects applied to supernova cosmology"
+      authors: "Boyd, Benjamin M. et al."
+      year: 2026
+      journal: "Monthly Notices of the Royal Astronomical Society, 550, stag1046"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1046B/abstract
+      bibcode: "2026MNRAS.550g1046B"
+      citations: 4
+      doi: https://doi.org/10.1093/mnras/stag1046
     - title: "The Dark Energy Survey supernova program: a reanalysis of cosmology results and evidence for evolving dark energy with an updated Type Ia supernova calibration"
       authors: "Popovic, B. et al."
       year: 2026
@@ -86,14 +86,6 @@ coauthor:
       bibcode: "2026MNRAS.548f2261K"
       citations: 4
       doi: https://doi.org/10.1093/mnras/staf2261
-    - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
-      authors: "Ramsay, G. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.06344"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260306344R/abstract
-      bibcode: "2026arXiv260306344R"
-      citations: 0
-      doi: https://doi.org/10.48550/arXiv.2603.06344
     - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
       authors: "Lyman, J. D. et al."
       year: 2026
@@ -102,14 +94,14 @@ coauthor:
       bibcode: "2026arXiv260302330L"
       citations: 3
       doi: https://doi.org/10.48550/arXiv.2603.02330
-    - title: "Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology"
-      authors: "Sarin, Nikhil et al."
+    - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
+      authors: "Ramsay, G. et al."
       year: 2026
-      journal: "arXiv e-prints, arXiv:2602.02677"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260202677S/abstract
-      bibcode: "2026arXiv260202677S"
-      citations: 5
-      doi: https://doi.org/10.48550/arXiv.2602.02677
+      journal: "arXiv e-prints, arXiv:2603.06344"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260306344R/abstract
+      bibcode: "2026arXiv260306344R"
+      citations: 0
+      doi: https://doi.org/10.48550/arXiv.2603.06344
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
       year: 2026
@@ -118,6 +110,14 @@ coauthor:
       bibcode: "2026Univ...12...53K"
       citations: 0
       doi: https://doi.org/10.3390/universe12020053
+    - title: "Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology"
+      authors: "Sarin, Nikhil et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2602.02677"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260202677S/abstract
+      bibcode: "2026arXiv260202677S"
+      citations: 5
+      doi: https://doi.org/10.48550/arXiv.2602.02677
     - title: "SN 2024bfu, SN 2025qe, and the early light curves of type Iax supernovae"
       authors: "Magee, M. R. et al."
       year: 2025
@@ -132,7 +132,7 @@ coauthor:
       journal: "The Astrophysical Journal, 992, 158"
       url: https://ui.adsabs.harvard.edu/abs/2025ApJ...992..158F/abstract
       bibcode: "2025ApJ...992..158F"
-      citations: 29
+      citations: 30
       doi: https://doi.org/10.3847/1538-4357/adff4e
     - title: "GOTO065054+593624: An 8.5 mag amplitude dwarf nova identified in real time via Kilonova Seekers"
       authors: "Killestein, T. L. et al."
@@ -180,7 +180,7 @@ coauthor:
       journal: "The Astrophysical Journal, 975, 86"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
       bibcode: "2024ApJ...975...86V"
-      citations: 153
+      citations: 152
       doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "Modelling the impact of host galaxy dust on type Ia supernova distance measurements"
       authors: "Popovic, B. et al."
@@ -316,7 +316,7 @@ coauthor:
       journal: "Monthly Notices of the Royal Astronomical Society, 514, 5159"
       url: https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.5159M/abstract
       bibcode: "2022MNRAS.514.5159M"
-      citations: 49
+      citations: 48
       doi: https://doi.org/10.1093/mnras/stac1691
     - title: "Cosmological Results from the RAISIN Survey: Using Type Ia Supernovae in the Near Infrared as a Novel Path to Measure the Dark Energy Equation of State"
       authors: "Jones, D. O. et al."
