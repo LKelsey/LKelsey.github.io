@@ -1,14 +1,38 @@
+- title: "Kilonova Seekers"
+  format: stand
+  venue: "Royal Institution, For Your Inspiration: Reach for the Cosmos"
+  date: 25 July 2026
+
 - title: "Seeds of Discovery: Unlocking the Southern Sky with 4MOST"
+  format: talk
   venue: IWF Leadership Fellows Programme, Cambridge Judge Business School
   date: 9 June 2026
   url: https://iwforum.org/initiatives/development/fellows/
 
 - title: "Kilonova Seekers: How you can help find cosmic explosions in real time"
+  format: talk
   venue: IoA Open Evening
   date: 4 January 2026
   url: https://www.youtube.com/watch?v=ykBYnGG_3v4&list=PLg8xO7lp9qSNtxBNZHnRh_k9ceFOUz7fV
 
+- title: "My Journey to becoming an Astrophysicist"
+  format: talk
+  venue: University of Bath Network of Women in Physics
+  date: 12 November 2025
+
+- title: "Inspirational Women in Astronomy"
+  format: stand
+  venue: IoA and KICC Open Day
+  date: 22 March 2025
+
 - title: "Type Ia Supernovae: \"The shining star is indeed a double one\""
-  venue: IoA International Women's Day Open Evening
+  format: talk
+  venue: IoA International Women's Day Open Evening — Inspirational Women in Astronomy
   date: 5 March 2025
   url: https://youtube.com/watch?v=2xz9-BPD6Rc
+  embed: 2xz9-BPD6Rc
+
+- title: "Kilonova Seekers"
+  format: stand
+  venue: UoP Stargazing Live Festival
+  date: 31 January 2024
