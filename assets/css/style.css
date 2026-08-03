@@ -35,6 +35,7 @@
   --color-white: #ffffff;
   --color-highlight: #b8960e;
 }
+
 @media (prefers-color-scheme: light) {
   :root:not([data-theme="dark"]) {
     --color-bg: #f5f4f0;
@@ -130,6 +131,7 @@ nav .nav-links a.active { color: var(--color-accent); border-bottom: none; }
   display: block; width: 22px; height: 2px;
   background: var(--color-text); margin: 5px 0; transition: 0.2s;
 }
+
 @media (max-width: 700px) {
   .nav-toggle { display: block; }
   nav .nav-links {
@@ -187,6 +189,7 @@ nav .nav-links a.active { color: var(--color-accent); border-bottom: none; }
   border-bottom-color: var(--color-accent-dim);
 }
 .hero-links a svg { width: 14px; height: 14px; }
+
 @media (max-width: 640px) {
   .hero { flex-direction: column; align-items: center; text-align: center; gap: 1.5rem; }
   .hero-photo { width: 180px; min-width: 180px; }
@@ -214,6 +217,7 @@ nav .nav-links a.active { color: var(--color-accent); border-bottom: none; }
   color: var(--color-accent); border-bottom: none;
 }
 .section-card .card-link:hover { border-bottom: 1px solid var(--color-accent); }
+
 @media (max-width: 640px) { .section-cards { grid-template-columns: 1fr; } }
 
 /* ── Page headings ── */
@@ -298,6 +302,27 @@ footer a { color: var(--color-text-light); }
 .talk-item:last-child { border-bottom: none; }
 .talk-title { font-weight: 600; font-size: 0.92rem; }
 .talk-venue { font-size: 0.85rem; color: var(--color-text-light); }
+.talk-type {
+  display: inline-block;
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.12em 0.5em;
+  margin-right: 0.6em;
+  border-radius: 3px;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg-card);
+  color: var(--color-text-light);
+  vertical-align: 0.08em;
+}
+.talk-type.stand {
+  background: var(--color-accent-light);
+  border-color: var(--color-accent-dim);
+  color: var(--color-accent);
+}
+.talk-flag { font-size: 0.78rem; color: var(--color-text-light); font-weight: 400; }
 
 /* ── Theme toggle ── */
 .theme-toggle {
@@ -307,6 +332,7 @@ footer a { color: var(--color-text-light); }
 }
 .theme-toggle:hover { border-color: var(--color-accent); }
 
+/* ── Publication metrics ── */
 .pub-metrics { display: flex; flex-wrap: wrap; gap: 1.75rem; margin: 1.5rem 0 2.5rem; }
 .metric { display: flex; flex-direction: column; }
 .metric-num { font-size: 1.8rem; font-weight: 600; line-height: 1; }
