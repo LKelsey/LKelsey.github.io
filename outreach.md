@@ -27,11 +27,11 @@ Surveying Transients with Amateur Researchers (STAR) was a [Las Cumbres Observat
 
 I co-lead the science communication working group for [4MOST](https://www.4most.eu/). I coordinated all public-facing activities for 4MOST First Light, including international press coverage and social media strategy. I oversee a team of ~10 working on social media channels, newsletters, website content, and educational resources.
 
-## Public Talks
+## Talks & Exhibition Stands
 
 {% for talk in site.data.talks %}
 <div class="talk-item">
-  <div class="talk-title">{% if talk.url %}<a href="{{ talk.url }}">{{ talk.title }}</a>{% else %}{{ talk.title }}{% endif %}</div>
+  <div class="talk-title">{% if talk.type == "stand" %}<span class="talk-type stand">Stand</span>{% else %}<span class="talk-type">Talk</span>{% endif %}{% if talk.url %}<a href="{{ talk.url }}">{{ talk.title }}</a>{% else %}{{ talk.title }}{% endif %}</div>
   <div class="talk-venue">{{ talk.venue }} · {{ talk.date }}</div>
 </div>
 {% endfor %}
