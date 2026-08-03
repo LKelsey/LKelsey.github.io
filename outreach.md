@@ -33,9 +33,14 @@ I co-lead the science communication working group for [4MOST](https://www.4most.
 <div class="talk-item">
   <div class="talk-title">{% if talk.format == "stand" %}<span class="talk-type stand">Stand</span>{% else %}<span class="talk-type">Talk</span>{% endif %}{% if talk.url %}<a href="{{ talk.url }}">{{ talk.title }}</a>{% else %}{{ talk.title }}{% endif %}</div>
   <div class="talk-venue">{{ talk.venue }} · {{ talk.date }}</div>
-  {% if talk.embed %}<div class="video-embed"><iframe src="https://www.youtube.com/embed/{{ talk.embed }}" allowfullscreen loading="lazy"></iframe></div>{% endif %}
 </div>
 {% endfor %}
+
+<div class="video-embed">
+  <iframe src="https://www.youtube.com/embed/2xz9-BPD6Rc" allowfullscreen loading="lazy"></iframe>
+</div>
+
+<p class="video-caption">Type Ia Supernovae: “The shining star is indeed a double one” · IoA International Women's Day Open Evening, March 2025</p>
 
 ## Media
 
