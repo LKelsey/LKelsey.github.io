@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-08-03 09:29 UTC
+# Auto-generated from ADS library on 2026-08-04 08:26 UTC
 # Do not edit manually
 
 first_author:
@@ -46,14 +46,6 @@ coauthor:
       bibcode: "2026MNRAS.550g1193B"
       citations: 0
       doi: https://doi.org/10.1093/mnras/stag1193
-    - title: "Still accelerating: type Ia supernova cosmology is robust to host galaxy age evolution"
-      authors: "Wiseman, Phil et al."
-      year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 549, stag797"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag797W/abstract
-      bibcode: "2026MNRAS.549ag797W"
-      citations: 7
-      doi: https://doi.org/10.1093/mnras/stag797
     - title: "FlowSN: neural simulation-based inference under realistic selection effects applied to supernova cosmology"
       authors: "Boyd, Benjamin M. et al."
       year: 2026
@@ -62,6 +54,14 @@ coauthor:
       bibcode: "2026MNRAS.550g1046B"
       citations: 4
       doi: https://doi.org/10.1093/mnras/stag1046
+    - title: "Still accelerating: type Ia supernova cosmology is robust to host galaxy age evolution"
+      authors: "Wiseman, Phil et al."
+      year: 2026
+      journal: "Monthly Notices of the Royal Astronomical Society, 549, stag797"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag797W/abstract
+      bibcode: "2026MNRAS.549ag797W"
+      citations: 7
+      doi: https://doi.org/10.1093/mnras/stag797
     - title: "The Dark Energy Survey supernova program: a reanalysis of cosmology results and evidence for evolving dark energy with an updated Type Ia supernova calibration"
       authors: "Popovic, B. et al."
       year: 2026
