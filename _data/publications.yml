@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-08-05 08:24 UTC
+# Auto-generated from ADS library on 2026-08-06 08:21 UTC
 # Do not edit manually
 
 first_author:
@@ -86,14 +86,6 @@ coauthor:
       bibcode: "2026arXiv260506799G"
       citations: 2
       doi: https://doi.org/10.48550/arXiv.2605.06799
-    - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
-      authors: "Ramsay, G. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.06344"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260306344R/abstract
-      bibcode: "2026arXiv260306344R"
-      citations: 0
-      doi: https://doi.org/10.48550/arXiv.2603.06344
     - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
       authors: "Lyman, J. D. et al."
       year: 2026
@@ -102,6 +94,14 @@ coauthor:
       bibcode: "2026arXiv260302330L"
       citations: 5
       doi: https://doi.org/10.48550/arXiv.2603.02330
+    - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
+      authors: "Ramsay, G. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2603.06344"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260306344R/abstract
+      bibcode: "2026arXiv260306344R"
+      citations: 0
+      doi: https://doi.org/10.48550/arXiv.2603.06344
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
       year: 2026
