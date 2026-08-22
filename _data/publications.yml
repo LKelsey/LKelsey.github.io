@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-08-21 06:33 UTC
+# Auto-generated from ADS library on 2026-08-22 06:27 UTC
 # Do not edit manually
 
 first_author:
@@ -68,7 +68,7 @@ coauthor:
       journal: "Monthly Notices of the Royal Astronomical Society, 548, stag632"
       url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.548ag632P/abstract
       bibcode: "2026MNRAS.548ag632P"
-      citations: 138
+      citations: 139
       doi: https://doi.org/10.1093/mnras/stag632
     - title: "On the origin of the environmental step: A BayeSN view of the ZTF SN Ia DR2"
       authors: "Ginolin, Madeleine et al."
@@ -86,14 +86,6 @@ coauthor:
       bibcode: "2026MNRAS.548f2261K"
       citations: 4
       doi: https://doi.org/10.1093/mnras/staf2261
-    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
-      authors: "Lyman, J. D. et al."
-      year: 2026
-      journal: "arXiv e-prints, arXiv:2603.02330"
-      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
-      bibcode: "2026arXiv260302330L"
-      citations: 5
-      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Searching for outbursts from Symbiotic Binaries in GOTO and ATLAS data"
       authors: "Ramsay, G. et al."
       year: 2026
@@ -102,6 +94,14 @@ coauthor:
       bibcode: "2026arXiv260306344R"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2603.06344
+    - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
+      authors: "Lyman, J. D. et al."
+      year: 2026
+      journal: "arXiv e-prints, arXiv:2603.02330"
+      url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
+      bibcode: "2026arXiv260302330L"
+      citations: 5
+      doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
       year: 2026
@@ -300,7 +300,7 @@ coauthor:
       journal: "The Astrophysical Journal, 938, 110"
       url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
       bibcode: "2022ApJ...938..110B"
-      citations: 1547
+      citations: 1548
       doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
@@ -334,14 +334,6 @@ coauthor:
       bibcode: "2021MNRAS.506.3330W"
       citations: 72
       doi: https://doi.org/10.1093/mnras/stab1943
-    - title: "Understanding the extreme luminosity of DES14X2fna"
-      authors: "Grayling, M. et al."
-      year: 2021
-      journal: "Monthly Notices of the Royal Astronomical Society, 505, 3950"
-      url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.3950G/abstract
-      bibcode: "2021MNRAS.505.3950G"
-      citations: 8
-      doi: https://doi.org/10.1093/mnras/stab1478
     - title: "The Dark Energy Survey supernova programme: modelling selection efficiency and observed core-collapse supernova contamination"
       authors: "Vincenzi, M. et al."
       year: 2021
@@ -350,6 +342,14 @@ coauthor:
       bibcode: "2021MNRAS.505.2819V"
       citations: 46
       doi: https://doi.org/10.1093/mnras/stab1353
+    - title: "Understanding the extreme luminosity of DES14X2fna"
+      authors: "Grayling, M. et al."
+      year: 2021
+      journal: "Monthly Notices of the Royal Astronomical Society, 505, 3950"
+      url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.3950G/abstract
+      bibcode: "2021MNRAS.505.3950G"
+      citations: 8
+      doi: https://doi.org/10.1093/mnras/stab1478
     - title: "The host galaxies of 106 rapidly evolving transients discovered by the Dark Energy Survey"
       authors: "Wiseman, P. et al."
       year: 2020
