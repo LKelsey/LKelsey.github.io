@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-08-22 06:27 UTC
+# Auto-generated from ADS library on 2026-08-23 06:28 UTC
 # Do not edit manually
 
 first_author:
@@ -262,14 +262,6 @@ coauthor:
       bibcode: "2023MNRAS.520..684G"
       citations: 12
       doi: https://doi.org/10.1093/mnras/stad056
-    - title: "The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust"
-      authors: "Meldorf, C. et al."
-      year: 2023
-      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1985"
-      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1985M/abstract
-      bibcode: "2023MNRAS.518.1985M"
-      citations: 47
-      doi: https://doi.org/10.1093/mnras/stac3056
     - title: "The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification"
       authors: "Vincenzi, M. et al."
       year: 2023
@@ -278,6 +270,14 @@ coauthor:
       bibcode: "2023MNRAS.518.1106V"
       citations: 37
       doi: https://doi.org/10.1093/mnras/stac1404
+    - title: "The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust"
+      authors: "Meldorf, C. et al."
+      year: 2023
+      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1985"
+      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1985M/abstract
+      bibcode: "2023MNRAS.518.1985M"
+      citations: 47
+      doi: https://doi.org/10.1093/mnras/stac3056
     - title: "Using host galaxy spectroscopy to explore systematics in the standardization of Type Ia supernovae"
       authors: "Dixon, M. et al."
       year: 2022
