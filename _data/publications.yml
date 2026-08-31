@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-08-30 11:00 UTC
+# Auto-generated from ADS library on 2026-08-31 12:21 UTC
 # Do not edit manually
 
 first_author:
@@ -286,14 +286,6 @@ coauthor:
       bibcode: "2022MNRAS.517.4291D"
       citations: 15
       doi: https://doi.org/10.1093/mnras/stac2994
-    - title: "The Pantheon+ Analysis: Cosmological Constraints"
-      authors: "Brout, Dillon et al."
-      year: 2022
-      journal: "The Astrophysical Journal, 938, 110"
-      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
-      bibcode: "2022ApJ...938..110B"
-      citations: 1548
-      doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies"
       authors: "Chen, R. et al."
       year: 2022
@@ -302,6 +294,14 @@ coauthor:
       bibcode: "2022ApJ...938...62C"
       citations: 34
       doi: https://doi.org/10.3847/1538-4357/ac8b82
+    - title: "The Pantheon+ Analysis: Cosmological Constraints"
+      authors: "Brout, Dillon et al."
+      year: 2022
+      journal: "The Astrophysical Journal, 938, 110"
+      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
+      bibcode: "2022ApJ...938..110B"
+      citations: 1547
+      doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
       year: 2022
