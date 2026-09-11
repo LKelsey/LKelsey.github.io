@@ -164,7 +164,7 @@ Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% fo
     Second-year progress interview: H. Zhang, Jul 2025; J. Laguna-Miralles, Jul 2026<br>
     Third-year progress interview: S. Dasgupta, Jul 2026; S. Kane, Aug 2026
   </div>
-  <div class="cv-entry-detail">University of Cambridge</div>
+  <div class="cv-entry-detail">Institute of Astronomy, University of Cambridge</div>
 </div>
 
 <div class="cv-entry">
@@ -172,7 +172,7 @@ Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% fo
     <span class="cv-entry-title">MPhys Research Project Supervisor: S. Slepetis</span>
     <span class="cv-entry-date">Dec 2022 – May 2023</span>
   </div>
-  <div class="cv-entry-detail">University of Portsmouth</div>
+  <div class="cv-entry-detail">Institute of Cosmology and Gravitation, University of Portsmouth</div>
 </div>
 
 ## Organisation & Service
