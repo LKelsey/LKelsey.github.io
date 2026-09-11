@@ -159,12 +159,7 @@ Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% fo
     <span class="cv-entry-title">PhD Progression Assessor &amp; Examiner</span>
     <span class="cv-entry-date">Jul 2025 – present</span>
   </div>
-  <div class="cv-entry-detail">
-    First-year progression review (upgrade to full PhD registration): J. Laguna-Miralles, Aug 2025<br>
-    Second-year progress interview: H. Zhang, Jul 2025; J. Laguna-Miralles, Jul 2026<br>
-    Third-year progress interview: S. Dasgupta, Jul 2026; S. Kane, Aug 2026
-  </div>
-  <div class="cv-entry-detail">Institute of Astronomy, University of Cambridge</div>
+  <div class="cv-entry-detail">First-, second- and third-year progress reviews for four PhD students, Institute of Astronomy, University of Cambridge</div>
 </div>
 
 <div class="cv-entry">
