@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-09-10 10:21 UTC
+# Auto-generated from ADS library on 2026-09-11 10:22 UTC
 # Do not edit manually
 
 first_author:
@@ -70,14 +70,6 @@ coauthor:
       bibcode: "2026MNRAS.548ag632P"
       citations: 143
       doi: https://doi.org/10.1093/mnras/stag632
-    - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
-      authors: "Killestein, T. L. et al."
-      year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 548, staf2261"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.548f2261K/abstract
-      bibcode: "2026MNRAS.548f2261K"
-      citations: 4
-      doi: https://doi.org/10.1093/mnras/staf2261
     - title: "On the origin of the environmental step: A BayeSN view of the ZTF SN Ia DR2"
       authors: "Ginolin, Madeleine et al."
       year: 2026
@@ -86,6 +78,14 @@ coauthor:
       bibcode: "2026arXiv260506799G"
       citations: 2
       doi: https://doi.org/10.48550/arXiv.2605.06799
+    - title: "SN 2024cld: unveiling the complex mass-loss histories of evolved supergiant progenitors to core collapse supernovae"
+      authors: "Killestein, T. L. et al."
+      year: 2026
+      journal: "Monthly Notices of the Royal Astronomical Society, 548, staf2261"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.548f2261K/abstract
+      bibcode: "2026MNRAS.548f2261K"
+      citations: 4
+      doi: https://doi.org/10.1093/mnras/staf2261
     - title: "The Gravitational-wave Optical Transient Observer (GOTO) data pipeline and workflow for transient discovery"
       authors: "Lyman, J. D. et al."
       year: 2026
@@ -166,14 +166,6 @@ coauthor:
       bibcode: "2025MNRAS.536.3588W"
       citations: 14
       doi: https://doi.org/10.1093/mnras/stae2784
-    - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
-      authors: "Vincenzi, M. et al."
-      year: 2024
-      journal: "The Astrophysical Journal, 975, 86"
-      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
-      bibcode: "2024ApJ...975...86V"
-      citations: 158
-      doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "The Dark Energy Survey Supernova Program: Light Curves and 5 Yr Data Release"
       authors: "Sánchez, B. O. et al."
       year: 2024
@@ -182,6 +174,14 @@ coauthor:
       bibcode: "2024ApJ...975....5S"
       citations: 87
       doi: https://doi.org/10.3847/1538-4357/ad739a
+    - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
+      authors: "Vincenzi, M. et al."
+      year: 2024
+      journal: "The Astrophysical Journal, 975, 86"
+      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
+      bibcode: "2024ApJ...975...86V"
+      citations: 158
+      doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "Modelling the impact of host galaxy dust on type Ia supernova distance measurements"
       authors: "Popovic, B. et al."
       year: 2024
