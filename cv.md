@@ -102,10 +102,10 @@ To date, I have raised **>£200,000** in fellowships and grants.
 
 <div class="cv-entry">
   <div class="cv-entry-header">
-    <span class="cv-entry-title">PI: Hubble Space Telescope, Cycle 30, SNAP-17194</span>
-    <span class="cv-entry-date">2022 – 2023</span>
+    <span class="cv-entry-title">PI: Liverpool Telescope, Reactive Time, PQ26B01</span>
+    <span class="cv-entry-date">2026</span>
   </div>
-  <div class="cv-entry-detail">Local Environments of Low-redshift Type Ia Supernova Siblings. Awarded 32 orbits.</div>
+  <div class="cv-entry-detail">Six SPRAT spectra of SN 2026aaiv, a Type Ia sibling of SN 2025rbs in NGC 7331, for the first progenitor constraints on a sibling pair. Awarded 70 minutes.</div>
 </div>
 
 <div class="cv-entry">
@@ -114,6 +114,14 @@ To date, I have raised **>£200,000** in fellowships and grants.
     <span class="cv-entry-date">2024 – 2025</span>
   </div>
   <div class="cv-entry-detail">Kilonova Seekers – LCO: STAR. Awarded 15 hours.</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-header">
+    <span class="cv-entry-title">PI: Hubble Space Telescope, Cycle 30, SNAP-17194</span>
+    <span class="cv-entry-date">2022 – 2023</span>
+  </div>
+  <div class="cv-entry-detail">Local Environments of Low-redshift Type Ia Supernova Siblings. Awarded 32 orbits.</div>
 </div>
 
 **+88 hours** as Co-Investigator across Gemini, WEAVE, LCO, and the Liverpool Telescope.
@@ -144,7 +152,7 @@ Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% fo
   <div class="cv-entry-detail">Tutorials, problem classes, and coursework marking. Modules included Quantum Mechanics, Classical Mechanics, Programming and Data Analysis, Introduction to Astronomy, and Life in the Cosmos.</div>
 </div>
 
-## Supervision
+## Supervision & Mentorship
 
 <div class="cv-entry">
   <div class="cv-entry-header">
@@ -168,6 +176,26 @@ Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% fo
     <span class="cv-entry-date">Dec 2022 – May 2023</span>
   </div>
   <div class="cv-entry-detail">Institute of Cosmology and Gravitation, University of Portsmouth</div>
+</div>
+
+### Researcher Development
+
+<div class="cv-entry">
+  <div class="cv-entry-header">
+    <span class="cv-entry-title">Grants and Fellowships Applications Toolkit</span>
+    <span class="cv-entry-date">Jul 2026</span>
+  </div>
+  <div class="cv-entry-detail">Faculty of Mathematics, University of Cambridge</div>
+  <div class="cv-entry-description">Invited to co-lead a two-hour workshop for 30 PhD students and postdocs on funding routes, fellowship applications, proposal writing and panel interviews. Reviewed participants' one-page proposals and CVs.</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-header">
+    <span class="cv-entry-title">Postdoc Career Panel</span>
+    <span class="cv-entry-date">Dec 2025</span>
+  </div>
+  <div class="cv-entry-detail">Institute of Astronomy, University of Cambridge</div>
+  <div class="cv-entry-description">Invited panellist on securing fellowships, sharing experience of the application process with early-career researchers.</div>
 </div>
 
 ## Organisation & Service
