@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-09-27 11:09 UTC
+# Auto-generated from ADS library on 2026-09-28 12:34 UTC
 # Do not edit manually
 
 first_author:
@@ -116,7 +116,7 @@ coauthor:
       journal: "arXiv e-prints, arXiv:2603.02330"
       url: https://ui.adsabs.harvard.edu/abs/2026arXiv260302330L/abstract
       bibcode: "2026arXiv260302330L"
-      citations: 7
+      citations: 8
       doi: https://doi.org/10.48550/arXiv.2603.02330
     - title: "Archival Gravitational-Wave Optical Transient Observer Photometry and Zwicky Transient Facility Localization of Galactic Novae: Quiescent Constraints and Improved Coordinates"
       authors: "Khamrat, Sutharut et al."
@@ -196,7 +196,7 @@ coauthor:
       journal: "The Astrophysical Journal, 975, 86"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
       bibcode: "2024ApJ...975...86V"
-      citations: 159
+      citations: 160
       doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "The Dark Energy Survey: Cosmology Results with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5 yr Data Set"
       authors: "DES Collaboration et al."
@@ -308,7 +308,7 @@ coauthor:
       journal: "The Astrophysical Journal, 938, 110"
       url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
       bibcode: "2022ApJ...938..110B"
-      citations: 1558
+      citations: 1562
       doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
