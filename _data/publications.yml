@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-10-05 13:14 UTC
+# Auto-generated from ADS library on 2026-10-06 12:33 UTC
 # Do not edit manually
 
 first_author:
@@ -70,14 +70,6 @@ coauthor:
       bibcode: "2026MNRAS.550g1193B"
       citations: 0
       doi: https://doi.org/10.1093/mnras/stag1193
-    - title: "Still accelerating: type Ia supernova cosmology is robust to host galaxy age evolution"
-      authors: "Wiseman, Phil et al."
-      year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 549, stag797"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag797W/abstract
-      bibcode: "2026MNRAS.549ag797W"
-      citations: 8
-      doi: https://doi.org/10.1093/mnras/stag797
     - title: "FlowSN: neural simulation-based inference under realistic selection effects applied to supernova cosmology"
       authors: "Boyd, Benjamin M. et al."
       year: 2026
@@ -86,6 +78,14 @@ coauthor:
       bibcode: "2026MNRAS.550g1046B"
       citations: 4
       doi: https://doi.org/10.1093/mnras/stag1046
+    - title: "Still accelerating: type Ia supernova cosmology is robust to host galaxy age evolution"
+      authors: "Wiseman, Phil et al."
+      year: 2026
+      journal: "Monthly Notices of the Royal Astronomical Society, 549, stag797"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag797W/abstract
+      bibcode: "2026MNRAS.549ag797W"
+      citations: 8
+      doi: https://doi.org/10.1093/mnras/stag797
     - title: "The Dark Energy Survey supernova program: a reanalysis of cosmology results and evidence for evolving dark energy with an updated Type Ia supernova calibration"
       authors: "Popovic, B. et al."
       year: 2026
@@ -270,14 +270,6 @@ coauthor:
       bibcode: "2023MNRAS.520..684G"
       citations: 12
       doi: https://doi.org/10.1093/mnras/stad056
-    - title: "The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification"
-      authors: "Vincenzi, M. et al."
-      year: 2023
-      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1106"
-      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1106V/abstract
-      bibcode: "2023MNRAS.518.1106V"
-      citations: 37
-      doi: https://doi.org/10.1093/mnras/stac1404
     - title: "The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust"
       authors: "Meldorf, C. et al."
       year: 2023
@@ -286,6 +278,14 @@ coauthor:
       bibcode: "2023MNRAS.518.1985M"
       citations: 47
       doi: https://doi.org/10.1093/mnras/stac3056
+    - title: "The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification"
+      authors: "Vincenzi, M. et al."
+      year: 2023
+      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1106"
+      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1106V/abstract
+      bibcode: "2023MNRAS.518.1106V"
+      citations: 37
+      doi: https://doi.org/10.1093/mnras/stac1404
     - title: "Using host galaxy spectroscopy to explore systematics in the standardization of Type Ia supernovae"
       authors: "Dixon, M. et al."
       year: 2022
