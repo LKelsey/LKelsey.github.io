@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-10-15 10:39 UTC
+# Auto-generated from ADS library on 2026-10-16 10:26 UTC
 # Do not edit manually
 
 first_author:
@@ -32,7 +32,7 @@ first_author:
       journal: "Monthly Notices of the Royal Astronomical Society, 501, 4861"
       url: https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4861K/abstract
       bibcode: "2021MNRAS.501.4861K"
-      citations: 89
+      citations: 92
       doi: https://doi.org/10.1093/mnras/staa3924
 
 joint_first_author:
@@ -148,7 +148,7 @@ coauthor:
       journal: "The Astrophysical Journal, 992, 158"
       url: https://ui.adsabs.harvard.edu/abs/2025ApJ...992..158F/abstract
       bibcode: "2025ApJ...992..158F"
-      citations: 35
+      citations: 37
       doi: https://doi.org/10.3847/1538-4357/adff4e
     - title: "GOTO065054+593624: An 8.5 mag amplitude dwarf nova identified in real time via Kilonova Seekers"
       authors: "Killestein, T. L. et al."
@@ -188,16 +188,8 @@ coauthor:
       journal: "The Astrophysical Journal, 975, 5"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975....5S/abstract
       bibcode: "2024ApJ...975....5S"
-      citations: 88
+      citations: 89
       doi: https://doi.org/10.3847/1538-4357/ad739a
-    - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
-      authors: "Vincenzi, M. et al."
-      year: 2024
-      journal: "The Astrophysical Journal, 975, 86"
-      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
-      bibcode: "2024ApJ...975...86V"
-      citations: 162
-      doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "Modelling the impact of host galaxy dust on type Ia supernova distance measurements"
       authors: "Popovic, B. et al."
       year: 2024
@@ -206,13 +198,21 @@ coauthor:
       bibcode: "2024MNRAS.534.2263P"
       citations: 20
       doi: https://doi.org/10.1093/mnras/stae2164
+    - title: "The Dark Energy Survey Supernova Program: Cosmological Analysis and Systematic Uncertainties"
+      authors: "Vincenzi, M. et al."
+      year: 2024
+      journal: "The Astrophysical Journal, 975, 86"
+      url: https://ui.adsabs.harvard.edu/abs/2024ApJ...975...86V/abstract
+      bibcode: "2024ApJ...975...86V"
+      citations: 169
+      doi: https://doi.org/10.3847/1538-4357/ad5e6c
     - title: "The Dark Energy Survey: Cosmology Results with ∼1500 New High-redshift Type Ia Supernovae Using the Full 5 yr Data Set"
       authors: "DES Collaboration et al."
       year: 2024
       journal: "The Astrophysical Journal Letters, 973, L14"
       url: https://ui.adsabs.harvard.edu/abs/2024ApJ...973L..14D/abstract
       bibcode: "2024ApJ...973L..14D"
-      citations: 701
+      citations: 711
       doi: https://doi.org/10.3847/2041-8213/ad6f9f
     - title: "The Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Dyer, Martin J. et al."
@@ -302,22 +302,22 @@ coauthor:
       bibcode: "2022MNRAS.517.4291D"
       citations: 15
       doi: https://doi.org/10.1093/mnras/stac2994
-    - title: "The Pantheon+ Analysis: Cosmological Constraints"
-      authors: "Brout, Dillon et al."
-      year: 2022
-      journal: "The Astrophysical Journal, 938, 110"
-      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
-      bibcode: "2022ApJ...938..110B"
-      citations: 1576
-      doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies"
       authors: "Chen, R. et al."
       year: 2022
       journal: "The Astrophysical Journal, 938, 62"
       url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938...62C/abstract
       bibcode: "2022ApJ...938...62C"
-      citations: 34
+      citations: 35
       doi: https://doi.org/10.3847/1538-4357/ac8b82
+    - title: "The Pantheon+ Analysis: Cosmological Constraints"
+      authors: "Brout, Dillon et al."
+      year: 2022
+      journal: "The Astrophysical Journal, 938, 110"
+      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110B/abstract
+      bibcode: "2022ApJ...938..110B"
+      citations: 1591
+      doi: https://doi.org/10.3847/1538-4357/ac8e04
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
       year: 2022
@@ -404,5 +404,5 @@ coauthor:
       journal: "Monthly Notices of the Royal Astronomical Society, 494, 4426"
       url: https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.4426S/abstract
       bibcode: "2020MNRAS.494.4426S"
-      citations: 108
+      citations: 111
       doi: https://doi.org/10.1093/mnras/staa946
