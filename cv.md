@@ -156,6 +156,22 @@ Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% fo
 
 <div class="cv-entry">
   <div class="cv-entry-header">
+    <span class="cv-entry-title">MPhil Supervisor: S. te Boekhorst</span>
+    <span class="cv-entry-date">Oct 2026 – Present</span>
+  </div>
+  <div class="cv-entry-detail">Institute of Astronomy, University of Cambridge</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-header">
+    <span class="cv-entry-title">Part III Project Co-Supervisor: D. Eaton</span>
+    <span class="cv-entry-date">Oct 2026 – Present</span>
+  </div>
+  <div class="cv-entry-detail">Institute of Astronomy, University of Cambridge</div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry-header">
     <span class="cv-entry-title">Summer Internship Supervisor: Z.S. Lee</span>
     <span class="cv-entry-date">Jul 2026 – Aug 2026</span>
   </div>
@@ -165,7 +181,7 @@ Most recent invited seminar: *{{ latest.title }}* —{% assign shown = 0 %}{% fo
 <div class="cv-entry">
   <div class="cv-entry-header">
     <span class="cv-entry-title">PhD Progression Assessor &amp; Examiner</span>
-    <span class="cv-entry-date">Jul 2025 – present</span>
+    <span class="cv-entry-date">Jul 2025 – Present</span>
   </div>
   <div class="cv-entry-detail">First-, second- and third-year progress reviews for four PhD students, Institute of Astronomy, University of Cambridge</div>
 </div>
