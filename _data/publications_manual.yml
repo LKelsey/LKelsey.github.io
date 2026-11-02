@@ -1,0 +1,10 @@
+# Papers not indexed by ADS. Merged into publications.yml by update_pubs.py.
+# Fields mirror ADS bigquery output. Remove an entry once ADS indexes it.
+- title: ["The absence of women's scientific contributions in core UK pre-university science qualifications"]
+  author: ["Cooke, G. J.", "White, S. B.", "Buttigieg, S.", "Lowson, N.", "Galaudage, S.", "Battisti, A.", "Kelsey, L.", "Ross, K."]
+  pub: "British Educational Research Journal"
+  year: "2026"
+  pubdate: "2026-10-00"
+  doi: ["10.1002/berj.70279"]
+  property: ["REFEREED"]
+  citation_count: 0
