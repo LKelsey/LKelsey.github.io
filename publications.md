@@ -6,7 +6,7 @@ permalink: /publications/
 {% assign all_pubs = site.data.publications.first_author | concat: site.data.publications.joint_first_author | concat: site.data.publications.coauthor %}{% assign lead_pubs = site.data.publications.first_author | concat: site.data.publications.joint_first_author %}{% assign total = all_pubs | size %}{% assign lead = lead_pubs | size %}{% assign citations = 0 %}{% for pub in all_pubs %}{% assign citations = citations | plus: pub.citations %}{% endfor %}{% assign lead_citations = 0 %}{% for pub in lead_pubs %}{% assign lead_citations = lead_citations | plus: pub.citations %}{% endfor %}{% assign h = 0 %}{% assign rank = 0 %}{% assign ranked = all_pubs | sort: 'citations' | reverse %}{% for pub in ranked %}{% assign rank = rank | plus: 1 %}{% if pub.citations >= rank %}{% assign h = rank %}{% endif %}{% endfor %}
 # Publications
 {: .page-title}
-Auto-generated from my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/AXbFp7rzT2aLpzhpEIiOWQ).
+Updated daily from my [ADS library](https://ui.adsabs.harvard.edu/public-libraries/AXbFp7rzT2aLpzhpEIiOWQ). Papers marked † aren't indexed by ADS, and their citation counts are updated manually.
 
 <div class="pub-metrics">
   <div class="metric"><span class="metric-num">{{ total }}</span><span class="metric-label">Publications</span></div>
