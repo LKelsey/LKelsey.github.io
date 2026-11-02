@@ -9,12 +9,14 @@ Usage:
 The script:
   1. Fetches bibcodes from a public ADS library
   2. Queries ADS for full metadata
-  3. Writes _data/publications.yml for Jekyll
+  3. Merges any papers ADS doesn't index from _data/publications_manual.yml
+  4. Writes _data/publications.yml for Jekyll
 """
 
 import os
 import sys
 import requests
+import yaml
 from datetime import datetime, timezone
 
 # ── Configuration ──────────────────────────────────────────────────────────
@@ -22,6 +24,7 @@ ADS_LIBRARY_ID = "AXbFp7rzT2aLpzhpEIiOWQ"
 ADS_TOKEN = os.environ.get("ADS_DEV_KEY", "")
 AUTHOR_NAMES = ["Kelsey, L.", "Kelsey, Lisa"]
 OUTPUT_FILE = "_data/publications.yml"
+MANUAL_FILE = "_data/publications_manual.yml"
 ADS_API = "https://api.adsabs.harvard.edu/v1"
 # ───────────────────────────────────────────────────────────────────────────
 
@@ -83,6 +86,16 @@ def get_paper_metadata(bibcodes: list[str]) -> list[dict]:
     )
     resp.raise_for_status()
     return resp.json().get("response", {}).get("docs", [])
+
+
+def load_manual_papers(ads_papers: list[dict]) -> list[dict]:
+    """Load non-ADS papers, skipping any whose DOI ADS now returns."""
+    if not os.path.exists(MANUAL_FILE):
+        return []
+    with open(MANUAL_FILE) as f:
+        manual = yaml.safe_load(f) or []
+    ads_dois = {d.lower() for p in ads_papers for d in p.get("doi", [])}
+    return [m for m in manual if m.get("doi", [""])[0].lower() not in ads_dois]
 
 
 def is_refereed(paper: dict) -> bool:
@@ -168,7 +181,7 @@ def paper_to_yaml(paper: dict, indent: str = "    ") -> str:
     bibcode = paper.get("bibcode", "")
     citations = paper.get("citation_count", 0) or 0
     doi = doi_url(paper)
-    url = ads_url(bibcode)
+    url = ads_url(bibcode) if bibcode else doi
 
     lines = [
         f"{indent}- title: {yaml_escape(title)}",
@@ -236,6 +249,10 @@ def main():
     print("Fetching metadata...")
     papers = get_paper_metadata(bibcodes)
     print(f"Retrieved metadata for {len(papers)} papers")
+
+    manual = load_manual_papers(papers)
+    papers += manual
+    print(f"Added {len(manual)} manual entries from {MANUAL_FILE}")
 
     papers.sort(key=lambda p: p.get("pubdate", "0000-00"), reverse=True)
 
