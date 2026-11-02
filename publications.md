@@ -20,7 +20,7 @@ Updated daily from my [ADS library](https://ui.adsabs.harvard.edu/public-librari
 
 {% for pub in site.data.publications.first_author %}
 <div class="pub-item">
-  <div class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a>{% if pub.citations > 0 %} <span style="font-size:0.78rem;color:var(--color-text-light);">({{ pub.citations }} citations)</span>{% endif %}</div>
+  <div class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a>{% if pub.bibcode == "" %}<span class="pub-flag" title="Not indexed by ADS">†</span>{% endif %}{% if pub.citations > 0 %} <span style="font-size:0.78rem;color:var(--color-text-light);">({{ pub.citations }} citations)</span>{% endif %}</div>
   <div class="pub-authors">{{ pub.authors }} ({{ pub.year }}), {{ pub.journal }}{% if pub.doi %} · <a href="{{ pub.doi }}">DOI</a>{% endif %}</div>
 </div>
 {% endfor %}
@@ -30,7 +30,7 @@ Updated daily from my [ADS library](https://ui.adsabs.harvard.edu/public-librari
 
 {% for pub in site.data.publications.joint_first_author %}
 <div class="pub-item">
-  <div class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a>{% if pub.citations > 0 %} <span style="font-size:0.78rem;color:var(--color-text-light);">({{ pub.citations }} citations)</span>{% endif %}</div>
+  <div class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a>{% if pub.bibcode == "" %}<span class="pub-flag" title="Not indexed by ADS">†</span>{% endif %}{% if pub.citations > 0 %} <span style="font-size:0.78rem;color:var(--color-text-light);">({{ pub.citations }} citations)</span>{% endif %}</div>
   <div class="pub-authors">{{ pub.authors }} ({{ pub.year }}), {{ pub.journal }}{% if pub.doi %} · <a href="{{ pub.doi }}">DOI</a>{% endif %}</div>
 </div>
 {% endfor %}
@@ -49,7 +49,7 @@ Updated daily from my [ADS library](https://ui.adsabs.harvard.edu/public-librari
 
 {% endif %}
 <div class="pub-item">
-  <div class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a>{% if pub.citations > 0 %} <span style="font-size:0.78rem;color:var(--color-text-light);">({{ pub.citations }} citations)</span>{% endif %}</div>
+  <div class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a>{% if pub.bibcode == "" %}<span class="pub-flag" title="Not indexed by ADS">†</span>{% endif %}{% if pub.citations > 0 %} <span style="font-size:0.78rem;color:var(--color-text-light);">({{ pub.citations }} citations)</span>{% endif %}</div>
   <div class="pub-authors">{{ pub.authors }} ({{ pub.year }}), {{ pub.journal }}{% if pub.doi %} · <a href="{{ pub.doi }}">DOI</a>{% endif %}</div>
 </div>
 {% endfor %}
