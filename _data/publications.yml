@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-11-16 14:28 UTC
+# Auto-generated from ADS library on 2026-11-17 15:19 UTC
 # Do not edit manually
 
 first_author:
@@ -310,14 +310,6 @@ coauthor:
       bibcode: "2023MNRAS.520..684G"
       citations: 14
       doi: https://doi.org/10.1093/mnras/stad056
-    - title: "The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification"
-      authors: "Vincenzi, M. et al."
-      year: 2023
-      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1106"
-      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1106V/abstract
-      bibcode: "2023MNRAS.518.1106V"
-      citations: 39
-      doi: https://doi.org/10.1093/mnras/stac1404
     - title: "The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust"
       authors: "Meldorf, C. et al."
       year: 2023
@@ -326,6 +318,14 @@ coauthor:
       bibcode: "2023MNRAS.518.1985M"
       citations: 51
       doi: https://doi.org/10.1093/mnras/stac3056
+    - title: "The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification"
+      authors: "Vincenzi, M. et al."
+      year: 2023
+      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1106"
+      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1106V/abstract
+      bibcode: "2023MNRAS.518.1106V"
+      citations: 39
+      doi: https://doi.org/10.1093/mnras/stac1404
     - title: "Using host galaxy spectroscopy to explore systematics in the standardization of Type Ia supernovae"
       authors: "Dixon, M. et al."
       year: 2022
@@ -334,14 +334,6 @@ coauthor:
       bibcode: "2022MNRAS.517.4291D"
       citations: 15
       doi: https://doi.org/10.1093/mnras/stac2994
-    - title: "Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies"
-      authors: "Chen, R. et al."
-      year: 2022
-      journal: "The Astrophysical Journal, 938, 62"
-      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938...62C/abstract
-      bibcode: "2022ApJ...938...62C"
-      citations: 37
-      doi: https://doi.org/10.3847/1538-4357/ac8b82
     - title: "The Pantheon+ Analysis: Cosmological Constraints"
       authors: "Brout, Dillon et al."
       year: 2022
@@ -350,6 +342,14 @@ coauthor:
       bibcode: "2022ApJ...938..110B"
       citations: 1795
       doi: https://doi.org/10.3847/1538-4357/ac8e04
+    - title: "Measuring Cosmological Parameters with Type Ia Supernovae in redMaGiC Galaxies"
+      authors: "Chen, R. et al."
+      year: 2022
+      journal: "The Astrophysical Journal, 938, 62"
+      url: https://ui.adsabs.harvard.edu/abs/2022ApJ...938...62C/abstract
+      bibcode: "2022ApJ...938...62C"
+      citations: 37
+      doi: https://doi.org/10.3847/1538-4357/ac8b82
     - title: "A galaxy-driven model of type Ia supernova luminosity variations"
       authors: "Wiseman, P. et al."
       year: 2022
