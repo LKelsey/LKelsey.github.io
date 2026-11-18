@@ -268,4 +268,4 @@ Journal Referee: *MNRAS, Nature Communications, ApJ* (since 2022). Telescope Pro
 
 ## Collaborations & Memberships
 
-[4MOST](https://www.4most.eu/) (TiDES member, Science Communication WG co-lead) · [Vera C. Rubin Observatory LSST](https://rubinobservatory.org/) · [GOTO](https://goto-observatory.org/) (Kilonova Seekers co-lead) · [Dark Energy Survey](https://www.darkenergysurvey.org/) · Fellow of the Royal Astronomical Society
+[4MOST](https://www.4most.eu/) (TiDES member; Science Communication WG co-lead 2025–2026) · [Vera C. Rubin Observatory LSST](https://rubinobservatory.org/) · [GOTO](https://goto-observatory.org/) (Kilonova Seekers co-lead) · [Dark Energy Survey](https://www.darkenergysurvey.org/) · Fellow of the Royal Astronomical Society
