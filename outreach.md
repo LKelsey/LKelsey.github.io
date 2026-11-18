@@ -17,6 +17,8 @@ Kilonova Seekers was awarded the <strong>2025 UKRI Future Leaders Fellowship Pub
 
 [Get involved at kilonova-seekers.org →](https://kilonova-seekers.org)
 
+The project featured on [BBC *The Sky at Night*](https://www.bbc.co.uk/programmes/m00343sn) in the episode *La Palma – Gateway to the Universe* (November 2026).
+
 The project has been used for workshops for primary and secondary school children, and forms the basis of the [IRIS pilot project Multi Messengers](https://researchportal.port.ac.uk/en/publications/multi-messengers/).
 
 ## Kilonova Seekers – LCO: STAR
@@ -25,7 +27,7 @@ Surveying Transients with Amateur Researchers (STAR) was a [Las Cumbres Observat
 
 ## 4MOST Science Communication
 
-I co-lead the science communication working group for [4MOST](https://www.4most.eu/). I coordinated all public-facing activities for 4MOST First Light, including international press coverage and social media strategy. I oversee a team of ~10 working on social media channels, newsletters, website content, and educational resources.
+I co-led the science communication working group for [4MOST](https://www.4most.eu/) from June 2025 until November 2026. I coordinated all public-facing activities for 4MOST First Light, including international press coverage and social media strategy, and oversaw a team of ~10 working on social media channels, newsletters, website content, and educational resources.
 
 ## Talks & Exhibition Stands
 
