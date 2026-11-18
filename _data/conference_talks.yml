@@ -27,7 +27,7 @@ invited:
 
   - title: "The Environments of Type Ia Supernovae"
     venue: Galaxies Discussion Group, University of Cambridge
-    date: 2024-12-01
+    date: 2024-12-06
     year: 2024
 
   - title: "Kilonova Seekers: the GOTO project for real-time citizen science in time-domain astrophysics"
@@ -43,13 +43,14 @@ invited:
 
   - title: "The Effect of Environment on Cosmology with Type Ia Supernovae: Supernova Siblings"
     venue: Oxford Supernovae and Transients Meeting, University of Oxford
-    date: 2024-07-01
+    date: 2024-07-23
     year: 2024
 
   - title: "Session Overview: The Effect of Environment on Cosmology with Type Ia Supernovae"
     venue: European Astronomical Society Annual Meeting, Padova
-    date: 2024-07-01
+    date: 2024-07-03
     year: 2024
+    url: https://eas.unige.ch/EAS2024/session.jsp?id=SS32
 
   - title: "The Environments of Type Ia Supernovae"
     venue: ICG Forum, University of Portsmouth
@@ -70,8 +71,9 @@ invited:
 
   - title: "The Impact of Type Ia Supernova Siblings in the Rubin-LSST era"
     venue: Next Generation Surveys in the Rubin-LSST era, University of Cambridge
-    date: 2023-03-01
+    date: 2023-03-27
     year: 2023
+    url: https://www.kicc.cam.ac.uk/events/kavli-science-themed-meetings/next-generation-surveys-rubin-lsst-era
 
   - title: "The Effect of Environment on Type Ia Supernovae in the Dark Energy Survey"
     venue: ICG Astrophysics Seminar Series, University of Portsmouth
@@ -82,17 +84,20 @@ invited:
     venue: The Future of Supernova Host Galaxy Studies, University of Southampton
     date: 2019-09-01
     year: 2019
+    url: https://amusing-muse.github.io/workshop2
 
   - title: "The Host Galaxies of Type Ia Supernovae in the Dark Energy Survey"
     venue: The Future of Supernova Host Galaxy Studies, University of Pittsburgh
     date: 2019-01-01
     year: 2019
+    url: https://amusing-muse.github.io/workshop
 
 contributed:
   - title: "Candles in Context: How Galaxies Shape Supernova Cosmology"
     venue: Kavli Astrophysics Symposium, University of Cambridge
     date: 2026-09-09
     year: 2026
+    url: https://sites.google.com/cam.ac.uk/kas2026/
     note: "invitation-only symposium"
 
   - title: "Location, Location, Location: The Role of Local Environments in Cosmology with Type Ia Supernovae"
@@ -109,15 +114,17 @@ contributed:
     venue: "Yonsei Supernova Workshop, Supernova Cosmology: New Challenges and Opportunities, Yonsei University"
     date: 2026-06-24
     year: 2026
+    url: https://sites.google.com/yonsei.ac.kr/sn-workshop-2026/
 
   - title: "Science Communication Group Updates"
     venue: 4MOST All Hands Meeting 2026, Leibniz Institute for Astrophysics Potsdam
     date: 2026-06-03
     year: 2026
+    url: https://meetings.aip.de/event/13/
 
   - title: "Supernova Siblings as Probes of Host Galaxy Systematics"
     venue: IoA Wednesday Seminar Series, University of Cambridge
-    date: 2026-02-01
+    date: 2026-02-11
     year: 2026
 
   - title: "Kilonova Seekers Highlights"
@@ -128,19 +135,22 @@ contributed:
 
   - title: "Constraining the Environments of Type Ia Supernovae using SED-fitting"
     venue: The Future of SED-fitting, University of Cambridge
-    date: 2025-07-01
+    date: 2025-07-09
     year: 2025
+    url: https://www.kicc.cam.ac.uk/events/kavli-science-themed-meetings/future-sed-fitting
 
   - title: "Kilonova Seekers: the GOTO project for real-time citizen science in time-domain astrophysics"
     venue: "CamGW: Surveying the range of gravitational-wave science in Cambridge, University of Cambridge"
-    date: 2025-03-01
+    date: 2025-03-11
     year: 2025
+    url: https://www.kicc.cam.ac.uk/events/kavli-science-themed-meetings/camgw
     type: flash
 
   - title: "The Local Environments of Type Ia Supernovae: Supernova Siblings"
     venue: Progress in Astrophysics with Type Ia Supernovae, Royal Astronomical Society
     date: 2024-11-01
     year: 2024
+    url: https://ras.ac.uk/events-and-meetings/ras-meetings/third-meeting-progress-astrophysics-type-la-supernovae-patias-3
 
   - title: "GOTO0650: A Likely Galactic Dwarf Nova discovered by Kilonova Seekers"
     venue: LCO Global Sky Forum, Online
@@ -149,8 +159,9 @@ contributed:
 
   - title: "The Local Environments of Type Ia Supernova Siblings Uncovered with the Hubble Space Telescope"
     venue: European Astronomical Society Annual Meeting, Padova
-    date: 2024-07-01
+    date: 2024-07-04
     year: 2024
+    url: https://eas.unige.ch/EAS2024/session.jsp?id=SS34
 
   - title: "Kilonova Seekers: Citizen Science for Gravitational Wave Follow-up with GOTO"
     venue: National Astronomy Meeting 2023, Cardiff University
@@ -159,7 +170,7 @@ contributed:
 
   - title: "The Local Environments of Type Ia Supernovae in the ELT-era"
     venue: Spatially Resolved Spectroscopy with Extremely Large Telescopes, University of Oxford (Virtual)
-    date: 2021-09-01
+    date: 2021-09-20
     year: 2021
 
   - title: "The Effect of Environment on Type Ia Supernovae in the Dark Energy Survey"
@@ -171,6 +182,7 @@ contributed:
     venue: Supernova Ia Cosmology Analysis Meeting, University of Chicago
     date: 2019-10-01
     year: 2019
+    url: https://kicp-workshops.uchicago.edu/2019-SCAM/program.php.html
 
   - title: "The Effect of Local Environment on Type Ia Supernovae in the Dark Energy Survey"
     venue: National Astronomy Meeting 2019, Lancaster University
