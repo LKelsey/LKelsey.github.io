@@ -6,7 +6,7 @@ layout: home
   <img src="{{ '/images/LKelsey.jpg' | relative_url }}" alt="Dr Lisa Kelsey" class="hero-photo">
   <div class="hero-text">
     <h1>Dr Lisa Kelsey</h1>
-    <p class="tagline">Astrophysicist researching the impact of galaxy environments on type Ia supernova cosmology. Co-creator of the Kilonova Seekers citizen science project, and co-lead of science communication for 4MOST.</p>
+    <p class="tagline">Astrophysicist researching the impact of galaxy environments on type Ia supernova cosmology. Co-creator of the Kilonova Seekers citizen science project.</p>
     <p class="affiliation">Leverhulme &amp; Isaac Newton Trust Early Career Fellow<br>
     Institute of Astronomy &amp; Kavli Institute for Cosmology, University of Cambridge<br>
     Postdoctoral Affiliate, Newnham College</p>
@@ -37,7 +37,7 @@ layout: home
 
 I am an astrophysicist at the University of Cambridge working on type Ia supernovae and their host galaxy environments. My current [Leverhulme Early Career Fellowship]({{ '/research' | relative_url }}) uses data from my Hubble Space Telescope program to study supernova siblings, pairs of supernovae in the same galaxy that let us disentangle local and global environmental effects.
 
-Alongside my core research, I co-created [Kilonova Seekers](https://kilonova-seekers.org), a citizen science project where volunteers help discover transient events in real time, and I co-lead science communication for the [4MOST](https://www.4most.eu/) spectroscopic survey. I am a member of the Dark Energy Survey, GOTO, 4MOST, and Rubin LSST collaborations.
+Alongside my core research, I co-created [Kilonova Seekers](https://kilonova-seekers.org), a citizen science project where volunteers help discover transient events in real time, and until November 2026 I co-led science communication for the [4MOST](https://www.4most.eu/) spectroscopic survey. I am a member of the Dark Energy Survey, GOTO, 4MOST, and Rubin LSST collaborations.
 
 ## Recent News
 
