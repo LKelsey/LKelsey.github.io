@@ -16,7 +16,7 @@ permalink: /talks/
 {% endif %}
 {% assign ts = talk.date | date: '%s' | plus: 0 %}
 <div class="talk-item">
-  <div class="talk-title">{{ talk.title }}{% if talk.type == "flash" %} <span style="font-size:0.78rem;color:var(--color-text-light);">(Flash Talk)</span>{% endif %}{% if ts > now %} <span class="talk-scheduled" style="font-size:0.78rem;color:var(--color-text-light);">(scheduled)</span>{% endif %}</div>
+  <div class="talk-title">{% if talk.url %}<a href="{{ talk.url }}">{{ talk.title }}</a>{% else %}{{ talk.title }}{% endif %}{% if talk.type == "flash" %} <span style="font-size:0.78rem;color:var(--color-text-light);">(Flash Talk)</span>{% endif %}{% if ts > now %} <span class="talk-scheduled" style="font-size:0.78rem;color:var(--color-text-light);">(scheduled)</span>{% endif %}</div>
   <div class="talk-venue">{{ talk.venue }}{% if talk.note %} · <em>{{ talk.note }}</em>{% endif %}</div>
 </div>
 {% endfor %}
@@ -30,7 +30,7 @@ permalink: /talks/
 {% endif %}
 {% assign ts = talk.date | date: '%s' | plus: 0 %}
 <div class="talk-item">
-  <div class="talk-title">{{ talk.title }}{% if talk.type == "flash" %} <span style="font-size:0.78rem;color:var(--color-text-light);">(Flash Talk)</span>{% endif %}{% if ts > now %} <span class="talk-scheduled" style="font-size:0.78rem;color:var(--color-text-light);">(scheduled)</span>{% endif %}</div>
+  <div class="talk-title">{% if talk.url %}<a href="{{ talk.url }}">{{ talk.title }}</a>{% else %}{{ talk.title }}{% endif %}{% if talk.type == "flash" %} <span style="font-size:0.78rem;color:var(--color-text-light);">(Flash Talk)</span>{% endif %}{% if ts > now %} <span class="talk-scheduled" style="font-size:0.78rem;color:var(--color-text-light);">(scheduled)</span>{% endif %}</div>
   <div class="talk-venue">{{ talk.venue }}{% if talk.note %} · <em>{{ talk.note }}</em>{% endif %}</div>
 </div>
 {% endfor %}
