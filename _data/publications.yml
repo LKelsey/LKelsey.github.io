@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-11-22 13:52 UTC
+# Auto-generated from ADS library on 2026-11-23 17:00 UTC
 # Do not edit manually
 
 first_author:
@@ -46,14 +46,14 @@ joint_first_author:
       doi: https://doi.org/10.1093/mnras/stae1817
 
 coauthor:
-    - title: "The Gravitational-wave Optical Transient Observer (GOTO) Fast Analysis and Spectroscopy of Transients (FAST) Surveys"
-      authors: "Godson, B. et al."
+    - title: "Searching for outbursts from symbiotic binaries in GOTO and ATLAS data"
+      authors: "Ramsay, G. et al."
       year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 552, stag1848"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1848G/abstract
-      bibcode: "2026MNRAS.552g1848G"
-      citations: 0
-      doi: https://doi.org/10.1093/mnras/stag1848
+      journal: "Astronomy and Astrophysics, 715, A158"
+      url: https://ui.adsabs.harvard.edu/abs/2026A&A...715A.158R/abstract
+      bibcode: "2026A&A...715A.158R"
+      citations: 1
+      doi: https://doi.org/10.1051/0004-6361/202659731
     - title: "Light-curve modelling of 2205 ZTF DR2 Type Ia supernovae: implications for SN Ia physics and cosmology"
       authors: "Sarin, Nikhil et al."
       year: 2026
@@ -70,14 +70,14 @@ coauthor:
       bibcode: "2026MNRAS.552g1785G"
       citations: 7
       doi: https://doi.org/10.1093/mnras/stag1785
-    - title: "Searching for outbursts from symbiotic binaries in GOTO and ATLAS data"
-      authors: "Ramsay, G. et al."
+    - title: "The Gravitational-wave Optical Transient Observer (GOTO) Fast Analysis and Spectroscopy of Transients (FAST) Surveys"
+      authors: "Godson, B. et al."
       year: 2026
-      journal: "Astronomy and Astrophysics, 715, A158"
-      url: https://ui.adsabs.harvard.edu/abs/2026A&A...715A.158R/abstract
-      bibcode: "2026A&A...715A.158R"
-      citations: 1
-      doi: https://doi.org/10.1051/0004-6361/202659731
+      journal: "Monthly Notices of the Royal Astronomical Society, 552, stag1848"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1848G/abstract
+      bibcode: "2026MNRAS.552g1848G"
+      citations: 0
+      doi: https://doi.org/10.1093/mnras/stag1848
     - title: "2Flow2SN: Dusty Supernova Cosmology with Photometric Redshifts and Contamination using Neural Simulation-Based Inference"
       authors: "Boyd, Benjamin M. et al."
       year: 2026
@@ -102,14 +102,6 @@ coauthor:
       bibcode: "2026arXiv260918443D"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2609.18443
-    - title: "GOTO identification and broad-band modelling of the counterpart to the SVOM GRB 250818B"
-      authors: "Belkin, S. et al."
-      year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 550, stag1193"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1193B/abstract
-      bibcode: "2026MNRAS.550g1193B"
-      citations: 2
-      doi: https://doi.org/10.1093/mnras/stag1193
     - title: "A forced photometry service for the Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Jarvis, Dan et al."
       year: 2026
@@ -118,14 +110,14 @@ coauthor:
       bibcode: "2026SPIE14151E..2QJ"
       citations: 0
       doi: https://doi.org/10.1117/12.3102284
-    - title: "Still accelerating: type Ia supernova cosmology is robust to host galaxy age evolution"
-      authors: "Wiseman, Phil et al."
+    - title: "GOTO identification and broad-band modelling of the counterpart to the SVOM GRB 250818B"
+      authors: "Belkin, S. et al."
       year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 549, stag797"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag797W/abstract
-      bibcode: "2026MNRAS.549ag797W"
-      citations: 18
-      doi: https://doi.org/10.1093/mnras/stag797
+      journal: "Monthly Notices of the Royal Astronomical Society, 550, stag1193"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1193B/abstract
+      bibcode: "2026MNRAS.550g1193B"
+      citations: 2
+      doi: https://doi.org/10.1093/mnras/stag1193
     - title: "FlowSN: neural simulation-based inference under realistic selection effects applied to supernova cosmology"
       authors: "Boyd, Benjamin M. et al."
       year: 2026
@@ -134,6 +126,14 @@ coauthor:
       bibcode: "2026MNRAS.550g1046B"
       citations: 8
       doi: https://doi.org/10.1093/mnras/stag1046
+    - title: "Still accelerating: type Ia supernova cosmology is robust to host galaxy age evolution"
+      authors: "Wiseman, Phil et al."
+      year: 2026
+      journal: "Monthly Notices of the Royal Astronomical Society, 549, stag797"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.549ag797W/abstract
+      bibcode: "2026MNRAS.549ag797W"
+      citations: 18
+      doi: https://doi.org/10.1093/mnras/stag797
     - title: "The Dark Energy Survey supernova program: a reanalysis of cosmology results and evidence for evolving dark energy with an updated Type Ia supernova calibration"
       authors: "Popovic, B. et al."
       year: 2026
@@ -262,14 +262,6 @@ coauthor:
       bibcode: "2024SPIE13098E..18O"
       citations: 0
       doi: https://doi.org/10.1117/12.3018319
-    - title: "Amalgame: cosmological constraints from the first combined photometric supernova sample"
-      authors: "Popovic, Brodie et al."
-      year: 2024
-      journal: "Monthly Notices of the Royal Astronomical Society, 529, 2100"
-      url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2100P/abstract
-      bibcode: "2024MNRAS.529.2100P"
-      citations: 17
-      doi: https://doi.org/10.1093/mnras/stae420
     - title: "The Dark Energy Survey Supernova Program: Cosmological Biases from Host Galaxy Mismatch of Type Ia Supernovae"
       authors: "Qu, H. et al."
       year: 2024
@@ -278,6 +270,14 @@ coauthor:
       bibcode: "2024ApJ...964..134Q"
       citations: 20
       doi: https://doi.org/10.3847/1538-4357/ad251d
+    - title: "Amalgame: cosmological constraints from the first combined photometric supernova sample"
+      authors: "Popovic, Brodie et al."
+      year: 2024
+      journal: "Monthly Notices of the Royal Astronomical Society, 529, 2100"
+      url: https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2100P/abstract
+      bibcode: "2024MNRAS.529.2100P"
+      citations: 17
+      doi: https://doi.org/10.1093/mnras/stae420
     - title: "GRB 230911A: The First Discovery of a Fermi GRB Optical Counterpart with the Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Belkin, S. et al."
       year: 2024
@@ -286,14 +286,6 @@ coauthor:
       bibcode: "2024RNAAS...8....6B"
       citations: 6
       doi: https://doi.org/10.3847/2515-5172/ad1876
-    - title: "A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies"
-      authors: "Duarte, J. et al."
-      year: 2023
-      journal: "Astronomy and Astrophysics, 680, A56"
-      url: https://ui.adsabs.harvard.edu/abs/2023A&A...680A..56D/abstract
-      bibcode: "2023A&A...680A..56D"
-      citations: 26
-      doi: https://doi.org/10.1051/0004-6361/202346534
     - title: "Rates and properties of Type Ia supernovae in galaxy clusters within the dark energy survey"
       authors: "Toy, M. et al."
       year: 2023
@@ -302,6 +294,14 @@ coauthor:
       bibcode: "2023MNRAS.526.5292T"
       citations: 19
       doi: https://doi.org/10.1093/mnras/stad2982
+    - title: "A sample of dust attenuation laws for Dark Energy Survey supernova host galaxies"
+      authors: "Duarte, J. et al."
+      year: 2023
+      journal: "Astronomy and Astrophysics, 680, A56"
+      url: https://ui.adsabs.harvard.edu/abs/2023A&A...680A..56D/abstract
+      bibcode: "2023A&A...680A..56D"
+      citations: 26
+      doi: https://doi.org/10.1051/0004-6361/202346534
     - title: "Core-collapse supernovae in the Dark Energy Survey: luminosity functions and host galaxy demographics"
       authors: "Grayling, M. et al."
       year: 2023
@@ -310,14 +310,6 @@ coauthor:
       bibcode: "2023MNRAS.520..684G"
       citations: 14
       doi: https://doi.org/10.1093/mnras/stad056
-    - title: "The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust"
-      authors: "Meldorf, C. et al."
-      year: 2023
-      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1985"
-      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1985M/abstract
-      bibcode: "2023MNRAS.518.1985M"
-      citations: 52
-      doi: https://doi.org/10.1093/mnras/stac3056
     - title: "The Dark Energy Survey supernova program: cosmological biases from supernova photometric classification"
       authors: "Vincenzi, M. et al."
       year: 2023
@@ -326,6 +318,14 @@ coauthor:
       bibcode: "2023MNRAS.518.1106V"
       citations: 39
       doi: https://doi.org/10.1093/mnras/stac1404
+    - title: "The Dark Energy Survey Supernova Program results: type Ia supernova brightness correlates with host galaxy dust"
+      authors: "Meldorf, C. et al."
+      year: 2023
+      journal: "Monthly Notices of the Royal Astronomical Society, 518, 1985"
+      url: https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.1985M/abstract
+      bibcode: "2023MNRAS.518.1985M"
+      citations: 52
+      doi: https://doi.org/10.1093/mnras/stac3056
     - title: "Using host galaxy spectroscopy to explore systematics in the standardization of Type Ia supernovae"
       authors: "Dixon, M. et al."
       year: 2022
