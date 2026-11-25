@@ -1,4 +1,4 @@
-# Auto-generated from ADS library on 2026-11-24 16:48 UTC
+# Auto-generated from ADS library on 2026-11-25 16:36 UTC
 # Do not edit manually
 
 first_author:
@@ -46,22 +46,6 @@ joint_first_author:
       doi: https://doi.org/10.1093/mnras/stae1817
 
 coauthor:
-    - title: "The Gravitational-wave Optical Transient Observer (GOTO) Fast Analysis and Spectroscopy of Transients (FAST) Surveys"
-      authors: "Godson, B. et al."
-      year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 552, stag1848"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1848G/abstract
-      bibcode: "2026MNRAS.552g1848G"
-      citations: 0
-      doi: https://doi.org/10.1093/mnras/stag1848
-    - title: "Searching for outbursts from symbiotic binaries in GOTO and ATLAS data"
-      authors: "Ramsay, G. et al."
-      year: 2026
-      journal: "Astronomy and Astrophysics, 715, A158"
-      url: https://ui.adsabs.harvard.edu/abs/2026A&A...715A.158R/abstract
-      bibcode: "2026A&A...715A.158R"
-      citations: 1
-      doi: https://doi.org/10.1051/0004-6361/202659731
     - title: "On the origin of the environmental dependence of SN Ia magnitudes: a BayeSN view of the ZTF SN Ia DR2"
       authors: "Ginolin, Madeleine et al."
       year: 2026
@@ -78,6 +62,22 @@ coauthor:
       bibcode: "2026MNRAS.552g1739S"
       citations: 12
       doi: https://doi.org/10.1093/mnras/stag1739
+    - title: "Searching for outbursts from symbiotic binaries in GOTO and ATLAS data"
+      authors: "Ramsay, G. et al."
+      year: 2026
+      journal: "Astronomy and Astrophysics, 715, A158"
+      url: https://ui.adsabs.harvard.edu/abs/2026A&A...715A.158R/abstract
+      bibcode: "2026A&A...715A.158R"
+      citations: 1
+      doi: https://doi.org/10.1051/0004-6361/202659731
+    - title: "The Gravitational-wave Optical Transient Observer (GOTO) Fast Analysis and Spectroscopy of Transients (FAST) Surveys"
+      authors: "Godson, B. et al."
+      year: 2026
+      journal: "Monthly Notices of the Royal Astronomical Society, 552, stag1848"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1848G/abstract
+      bibcode: "2026MNRAS.552g1848G"
+      citations: 0
+      doi: https://doi.org/10.1093/mnras/stag1848
     - title: "2Flow2SN: Dusty Supernova Cosmology with Photometric Redshifts and Contamination using Neural Simulation-Based Inference"
       authors: "Boyd, Benjamin M. et al."
       year: 2026
@@ -102,14 +102,6 @@ coauthor:
       bibcode: "2026arXiv260918443D"
       citations: 0
       doi: https://doi.org/10.48550/arXiv.2609.18443
-    - title: "GOTO identification and broad-band modelling of the counterpart to the SVOM GRB 250818B"
-      authors: "Belkin, S. et al."
-      year: 2026
-      journal: "Monthly Notices of the Royal Astronomical Society, 550, stag1193"
-      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1193B/abstract
-      bibcode: "2026MNRAS.550g1193B"
-      citations: 2
-      doi: https://doi.org/10.1093/mnras/stag1193
     - title: "A forced photometry service for the Gravitational-wave Optical Transient Observer (GOTO)"
       authors: "Jarvis, Dan et al."
       year: 2026
@@ -118,6 +110,14 @@ coauthor:
       bibcode: "2026SPIE14151E..2QJ"
       citations: 0
       doi: https://doi.org/10.1117/12.3102284
+    - title: "GOTO identification and broad-band modelling of the counterpart to the SVOM GRB 250818B"
+      authors: "Belkin, S. et al."
+      year: 2026
+      journal: "Monthly Notices of the Royal Astronomical Society, 550, stag1193"
+      url: https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1193B/abstract
+      bibcode: "2026MNRAS.550g1193B"
+      citations: 2
+      doi: https://doi.org/10.1093/mnras/stag1193
     - title: "FlowSN: neural simulation-based inference under realistic selection effects applied to supernova cosmology"
       authors: "Boyd, Benjamin M. et al."
       year: 2026
